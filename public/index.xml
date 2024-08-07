@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filip Dobrocky</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Filip Dobrocky</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Filip Dobrocky</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 12:31:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 29 Jul 2024 12:31:41 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>CV * 18. 12. 1998, Banská Bystrica, Slovakia&#xA;education 2023- Faculty of Music / Janacek Academy of Performing Arts&#xA;Multimedia creation&#xA;Bachelor of Arts&#xA;2018-2023 FEEC / Brno University of Technology&#xA;Audio engineering - music production and recording&#xA;Engineer&amp;rsquo;s degree&#xA;2014-2018 Gymnázium J. G. Tajovského, Banská Bystrica&#xA;Mathemathics class&#xA;experience 2022- Rekola Bikesharing servis zdieľaných bicyklov 2022 Projekt Trychtýř (SVITAVA transmedia art lab) kolaboratívny umelecký projekt workshopy (účastník): 2022 Walking Over Bones (Kunsthalle Bratislava, Tomáš Prištiak) field recording 2023 Deep Learning for composers and artists (SVITAVA, Robert B.</description>
+    </item>
+  </channel>
+</rss>
