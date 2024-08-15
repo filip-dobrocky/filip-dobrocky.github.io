@@ -1,11 +1,12 @@
 ---
 title: "About"
 date: 2024-07-29T12:31:41+02:00
-draft: true
+draft: false
 ---
 
-# CV
+filip.dobrocky(at)gmail.com
 
+# CV
 
 \* 18. 12. 1998, Banská Bystrica, Slovakia
 ### education
@@ -29,12 +30,36 @@ Engineer's degree
 Mathemathics class
 
 ### experience
-2022- Rekola Bikesharing
-servis zdieľaných bicyklov
-2022 Projekt Trychtýř (SVITAVA transmedia art lab)
-kolaboratívny umelecký projekt
-workshopy (účastník):
-2022 Walking Over Bones (Kunsthalle Bratislava, Tomáš Prištiak)
-field recording
-2023 Deep Learning for composers and artists (SVITAVA, Robert B. Lisek)
-sound
+2022-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Rekola Bikesharing**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Bicycle mechanic  
+
+2023-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Bazmek entertainment**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Music composition & sound design for theatre (+ other media)  
+
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Projekt Trychtýř** (SVITAVA transmedia art lab)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Collaborative art project presented at SONDA festival  
+  
+
+### workshops (attended)
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Walking Over Bones** - Field recording  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Kunsthalle Bratislava, Tomáš Prištiak)  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Deep Learning for composers and artists**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(SVITAVA, Robert B. Lisek)  
+2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Spatial sound and ambisonics**     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(HF JAMU, Thomas Gorbach)  
+2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Advanced sound design, live electronics and musical programming**     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(HF JAMU, Bruno Liberda)  

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filip Dobrocky</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Filip Dobrocky</description>
+    <title>Works on Filip Dobrocky</title>
+    <link>https://example.com/works/</link>
+    <description>Recent content in Works on Filip Dobrocky</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Filip Dobrocky</copyright>
-    <lastBuildDate>Thu, 15 Aug 2024 11:42:44 +0200</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Code</title>
-      <link>https://example.com/code/</link>
-      <pubDate>Thu, 15 Aug 2024 11:42:44 +0200</pubDate>
-      <guid>https://example.com/code/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Mon, 29 Jul 2024 12:31:41 +0200</pubDate>
-      <guid>https://example.com/about/</guid>
-      <description>filip.dobrocky(at)gmail.com&#xA;CV * 18. 12. 1998, Banská Bystrica, Slovakia&#xA;education 2023- Faculty of Music / Janacek Academy of Performing Arts&#xA;Multimedia creation&#xA;Bachelor of Arts&#xA;2018-2023 FEEC / Brno University of Technology&#xA;Audio engineering - music production and recording&#xA;Engineer&amp;rsquo;s degree&#xA;2014-2018 Gymnázium J. G. Tajovského, Banská Bystrica&#xA;Mathemathics class&#xA;experience 2022- Rekola Bikesharing&#xA;Bicycle mechanic&#xA;2023- Bazmek entertainment&#xA;Music composition &amp;amp; sound design for theatre (+ other media)&#xA;2022 Projekt Trychtýř (SVITAVA transmedia art lab)</description>
-    </item>
+    <lastBuildDate>Sat, 11 May 2024 13:29:21 +0200</lastBuildDate>
+    <atom:link href="https://example.com/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structure</title>
       <link>https://example.com/works/structure/</link>
