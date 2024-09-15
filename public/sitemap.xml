@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/code/</loc>
+    <loc>http://localhost:1313/code/</loc>
     <lastmod>2024-08-15T11:42:44+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-15T11:42:44+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-29T12:31:41+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/works/structure/</loc>
+    <loc>http://localhost:1313/works/structure/</loc>
     <lastmod>2024-05-11T13:29:21+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/works/</loc>
+    <loc>http://localhost:1313/works/</loc>
     <lastmod>2024-05-11T13:29:21+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/works/lithic/</loc>
+    <loc>http://localhost:1313/works/lithic/</loc>
     <lastmod>2024-01-07T14:29:37+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/works/cycle/</loc>
+    <loc>http://localhost:1313/works/cycle/</loc>
     <lastmod>2023-05-07T14:43:39+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/works/phone-orchestra/</loc>
+    <loc>http://localhost:1313/works/phone-orchestra/</loc>
     <lastmod>2022-11-07T14:46:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

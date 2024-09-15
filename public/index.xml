@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filip Dobrocky</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Filip Dobrocky</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Filip Dobrocky</copyright>
     <lastBuildDate>Thu, 15 Aug 2024 11:42:44 +0200</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
-      <link>https://example.com/code/</link>
+      <link>http://localhost:1313/code/</link>
       <pubDate>Thu, 15 Aug 2024 11:42:44 +0200</pubDate>
-      <guid>https://example.com/code/</guid>
+      <guid>http://localhost:1313/code/</guid>
       <description> </description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 29 Jul 2024 12:31:41 +0200</pubDate>
-      <guid>https://example.com/about/</guid>
-      <description>filip.dobrocky(at)gmail.com&#xA;CV * 18. 12. 1998, Banská Bystrica, Slovakia&#xA;education 2023- Faculty of Music / Janacek Academy of Performing Arts&#xA;Multimedia creation&#xA;Bachelor of Arts&#xA;2018-2023 FEEC / Brno University of Technology&#xA;Audio engineering - music production and recording&#xA;Engineer&amp;rsquo;s degree&#xA;2014-2018 Gymnázium J. G. Tajovského, Banská Bystrica&#xA;Mathemathics class&#xA;experience 2022- Rekola Bikesharing&#xA;Bicycle mechanic&#xA;2023- Bazmek entertainment&#xA;Music composition &amp;amp; sound design for theatre (+ other media)&#xA;2022 Projekt Trychtýř (SVITAVA transmedia art lab)</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>filip.dobrocky(at)gmail.com&#xA;Filip Dobrocký (* 1998, Banská Bystrica, Slovakia) is a sound designer, audio engineer, sound artist, and programmer, currently studying multimedia creation at the Faculty of Music at JAMU in Brno. In his work, he often applies principles of indeterminacy and generative art — his works are autonomous systems with variable outcomes — transforming his programming experience into artistic practice.&#xA;CV education 2023- Faculty of Music / Janacek Academy of Performing Arts</description>
     </item>
     <item>
       <title>Structure</title>
-      <link>https://example.com/works/structure/</link>
+      <link>http://localhost:1313/works/structure/</link>
       <pubDate>Sat, 11 May 2024 13:29:21 +0200</pubDate>
-      <guid>https://example.com/works/structure/</guid>
-      <description>Structure is concieved as an audiovisual performance using generative 3D graphics and spatial sound. Synesthetic audiovisual gestalts are formed by means of micro-relationships of image and sound.&#xA;The resulting shapes of image and sound are instatiations of an abstract algotithmic structure working in virtual 3D domain - a strictly defined structure creating structures that are seemingly unpredictable.&#xA;The content itself comes from everyday life - field recordings form the basis of the sound and the 3D point clouds partly contain a model of the buildings of Brno (where the author resides).</description>
+      <guid>http://localhost:1313/works/structure/</guid>
+      <description>Structure is concieved as an audiovisual performance using generative 3D graphics and spatial sound. Synesthetic audiovisual gestalts are formed by means of micro-relationships of image and sound.&#xA;The resulting shapes of image and sound are instatiations of an abstract algotithmic structure working in virtual 3D domain - a strictly defined structure creating structures that are seemingly unpredictable.&#xA;The content itself comes from everyday life - field recordings form the basis of the sound and the 3D point clouds partly contain a model of the buildings of Brno.</description>
     </item>
     <item>
       <title>Lithic</title>
-      <link>https://example.com/works/lithic/</link>
+      <link>http://localhost:1313/works/lithic/</link>
       <pubDate>Sun, 07 Jan 2024 14:29:37 +0200</pubDate>
-      <guid>https://example.com/works/lithic/</guid>
+      <guid>http://localhost:1313/works/lithic/</guid>
       <description>My first multimedia project at Janacek Academy of Performing Arts and my first try at an installation.&#xA;The subject of the piece are stones, all collected at local former quarry Hády. A constellation of stones create an interactive environment, an interface, through which the visitor is invited to shape a generative spatial sound composition via haptic interaction.&#xA;Capacitive field sensing is used to detect one touching a stone. A touch causes a reaction by mechanical excitation of the stones (vibrational motors and solenoid magnets are used) and an advancement in the composition.</description>
     </item>
     <item>
       <title>Cycle</title>
-      <link>https://example.com/works/cycle/</link>
+      <link>http://localhost:1313/works/cycle/</link>
       <pubDate>Sun, 07 May 2023 14:43:39 +0200</pubDate>
-      <guid>https://example.com/works/cycle/</guid>
+      <guid>http://localhost:1313/works/cycle/</guid>
       <description>Originaly an electroacoustic composition, later video and live performance.&#xA;The main object of interest is the 𝒃𝒊𝒄𝒚𝒄𝒍𝒆 - a mode of transport, a lifestyle or a target of a culture war. In the hegemony of automobilism, this simple and efficient way of getting through the city is often considered &amp;ldquo;extreme&amp;rdquo;. The aim of this recording is emancipation of the bicycle. Field recordings made during city commutes, the noise of cars, sounds of bicycles, bicycle played as a musical instrument (using a violin bow, mallets, brushes, etc.</description>
     </item>
     <item>
       <title>Phone Orchestra</title>
-      <link>https://example.com/works/phone-orchestra/</link>
+      <link>http://localhost:1313/works/phone-orchestra/</link>
       <pubDate>Mon, 07 Nov 2022 14:46:01 +0200</pubDate>
-      <guid>https://example.com/works/phone-orchestra/</guid>
+      <guid>http://localhost:1313/works/phone-orchestra/</guid>
       <description>An interactive performance where the specators interpret a visual score via the flashlights on their phones.&#xA;The piece is one of the results of the first iteration of collaborative project Trychtýř by SVITAVA transmedia art lab. The idea came collectively, the interactive visuals were created by Matúš Stenko and I took care of the programming, computer vision and sound design.</description>
     </item>
   </channel>

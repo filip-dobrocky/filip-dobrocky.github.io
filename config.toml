@@ -22,7 +22,7 @@ weight = 2
 
 [[menu.main]]
 name = "Music"
-url = "/#projects"
+url = "/a#projects"
 weight = 3
 
 [[menu.main]]
@@ -95,6 +95,9 @@ weight = 5
   [[params.social]]
     name = "github"
     link = "https://github.com/filip-dobrocky"
+  [[params.social]]
+    name = "strava"
+    link = "https://www.strava.com/athletes/24192923"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/in/filip-dobrocky/"
