@@ -10,6 +10,6 @@ Structure is concieved as an audiovisual performance using generative 3D graphic
 
 The resulting shapes of image and sound are instatiations of an abstract algotithmic structure working in virtual 3D domain - a strictly defined structure creating structures that are seemingly unpredictable.
 
-The content itself comes from everyday life - field recordings form the basis of the sound and the 3D point clouds partly contain a model of the buildings of Brno (where I live).
+The content itself comes from everyday life - field recordings form the basis of the sound and the 3D point clouds partly contain a model of the buildings of Brno.
 
 This tangible matter is transformed in real time using a sort of custom audiovisual granular synthetizer.

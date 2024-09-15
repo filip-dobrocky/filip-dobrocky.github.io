@@ -6,9 +6,10 @@ draft: false
 
 filip.dobrocky(at)gmail.com
 
+Filip Dobrocký (\* 1998, Banská Bystrica, Slovakia) is a sound designer, audio engineer, sound artist, and programmer, currently studying multimedia creation at the Faculty of Music at JAMU in Brno. In his work, he often applies principles of indeterminacy and generative art &mdash; his works are autonomous systems with variable outcomes &mdash; transforming his programming experience into artistic practice.
+
 # CV
 
-\* 18. 12. 1998, Banská Bystrica, Slovakia
 ### education
 2023-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Faculty of Music / Janacek Academy of Performing Arts**  
