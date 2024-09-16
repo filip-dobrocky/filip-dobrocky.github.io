@@ -11,56 +11,90 @@ Filip Dobrocký (\* 1998, Banská Bystrica, Slovakia) is a sound designer, audio
 # CV
 
 ### education
-2023-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{{< columns>}}
+2023-
+{{< column>}}
 **Faculty of Music / Janacek Academy of Performing Arts**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Multimedia creation  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Bachelor of Arts
-
+Bachelor of Arts  
+{{< endcolumns>}}
+{{< columns>}}
 2018-2023
-&nbsp;**FEEC / Brno University of Technology**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{{< column>}}
+**FEEC / Brno University of Technology**  
 Audio engineering - music production and recording  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Engineer's degree
-
-2014-2018 
-&nbsp;**Gymnázium J. G. Tajovského, Banská Bystrica**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{{< endcolumns>}}
+{{< columns>}}
+2014-2018
+{{< column>}}
+**Gymnázium J. G. Tajovského, Banská Bystrica**  
 Mathemathics class
+{{< endcolumns>}}
 
 ### experience
-2022-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+{{< columns>}}
+2022-
+{{< column>}}
 **Rekola Bikesharing**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Bicycle mechanic  
-
-2023-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{{< endcolumns>}}
+{{< columns>}}
+2023-
+{{< column>}}
 **Bazmek entertainment**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Music composition & sound design for theatre (+ other media)  
-
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{{< endcolumns>}}
+{{< columns>}}
+2022
+{{< column>}}
 **Projekt Trychtýř** (SVITAVA transmedia art lab)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Collaborative art project presented at SONDA festival  
-  
+{{< endcolumns>}}
+
+### skills
+
+- Programming  
+*C++, Python, C#, Java, Javascript*  
+- Audio production  
+*Reaper, Ableton Live*
+- Audio engineering, recording
+- Interactive audio/art  
+*Max/MSP/Jitter, Pure Data, SuperCollider, FMOD studio, Touchdesigner*
+- Video editing  
+*DaVinci Resolve*
+- Audio programming  
+*JUCE framework*
+- Computer vision  
+*OpenCV, object detection, MOT*
+- Bicycle repair and building
+- Vegetarian cooking
+
 
 ### workshops (attended)
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Walking Over Bones** - Field recording  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(Kunsthalle Bratislava, Tomáš Prištiak)  
-2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Deep Learning for composers and artists**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(SVITAVA, Robert B. Lisek)  
-2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Spatial sound and ambisonics**     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(HF JAMU, Thomas Gorbach)  
-2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+{{< columns>}}
+2024
+{{< column>}}
 **Advanced sound design, live electronics and musical programming**     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 (HF JAMU, Bruno Liberda)  
+{{< endcolumns>}}
+{{< columns>}}
+2023
+{{< column>}}
+**Spatial sound and ambisonics**  
+(HF JAMU, Thomas Gorbach)  
+{{< endcolumns>}}
+{{< columns>}}
+2023
+{{< column>}}
+**Deep Learning for composers and artists**  
+(SVITAVA, Robert B. Lisek)  
+{{< endcolumns>}}
+{{< columns>}}
+2022
+{{< column>}}
+**Walking Over Bones** - Field recording  
+(Kunsthalle Bratislava, Tomáš Prištiak)  
+{{< endcolumns>}}
