@@ -14,7 +14,7 @@
       <link>http://localhost:1313/events/</link>
       <pubDate>Wed, 09 Oct 2024 10:07:00 +0200</pubDate>
       <guid>http://localhost:1313/events/</guid>
-      <description>Events upcoming Erase Head @ 112/113 output Event Page&#xD;Thu 17/10/2024 at CO.LABS (Kounicova 20, Brno)&#xD;Sound performance focusing on the process of catharsis using the medium of magnetic tape&#xD;SONDA: Lom Hády @ SONDA festival - Sonic Spaces Event Page&#xD;Sat 02/11/2024 at Hády quarry, Brno&#xD;Collaborative installation&#xD;STRUCTURE @ SONDA festival - Sonic Spaces Event Page&#xD;Sat 23/11/2024 at Studio Marta (Bayerova 575, Brno)&#xD;Generative AV performance&#xD;past no past events&#xD;</description>
+      <description>Events upcoming Erase Head @ 112/113 output&#xD;Event Page&#xD;Thu 17/10/2024 at CO.LABS (Kounicova 20, Brno)&#xD;Sound performance focusing on the process of catharsis using the medium of magnetic tape&#xD;SONDA: Lom Hády @ SONDA festival - Sonic Spaces&#xD;Event Page&#xD;Sat 02/11/2024 at Hády quarry, Brno&#xD;Collaborative installation&#xD;STRUCTURE @ SONDA festival - Sonic Spaces&#xD;Event Page&#xD;Sat 23/11/2024 at Studio Marta (Bayerova 575, Brno)&#xD;Generative AV performance&#xD;past no past events&#xD;</description>
     </item>
     <item>
       <title>Code</title>
@@ -42,7 +42,7 @@
       <link>http://localhost:1313/works/lithic/</link>
       <pubDate>Sun, 07 Jan 2024 14:29:37 +0200</pubDate>
       <guid>http://localhost:1313/works/lithic/</guid>
-      <description>My first multimedia project at Janacek Academy of Performing Arts and my first try at an installation.&#xA;The subject of the piece are stones, all collected at local former quarry Hády. A constellation of stones create an interactive environment, an interface, through which the visitor is invited to shape a generative spatial sound composition via haptic interaction.&#xA;Capacitive field sensing is used to detect one touching a stone. A touch causes a reaction by mechanical excitation of the stones (vibrational motors and solenoid magnets are used) and an advancement in the composition.</description>
+      <description>My first multimedia project at Janacek Academy of Performing Arts and my first try at an installation.&#xA;The subject of the piece are stones, all collected at local former quarry Hády. I focused on the sonic and haptic qualities of stones, with a motivation grounded in phenomenology rather than geology. The stones attracted me with their visual purity and universality in meaning. A stone is usually associated with something rigid and stable - I question that with electro-mechanical excitation.</description>
     </item>
     <item>
       <title>Cycle</title>
@@ -56,7 +56,7 @@
       <link>http://localhost:1313/works/phone-orchestra/</link>
       <pubDate>Mon, 07 Nov 2022 14:46:01 +0200</pubDate>
       <guid>http://localhost:1313/works/phone-orchestra/</guid>
-      <description>An interactive performance where the specators interpret a visual score via the flashlights on their phones.&#xA;The piece is one of the results of the first iteration of collaborative project Trychtýř by SVITAVA transmedia art lab. The idea came collectively, the interactive visuals were created by Matúš Stenko and I took care of the programming, computer vision and sound design.</description>
+      <description>An interactive performance where the specators become performers, interpreting a visual score using the flashlights on their phones.&#xA;The piece is one of the results of the first iteration of collaborative project Trychtýř by SVITAVA transmedia art lab. The idea came collectively, the interactive visuals were created by Matúš Stenko and I took care of the programming, computer vision and sound design.&#xA;It was built using OpenCV in Python feeding data to Max via OSC, which in turn fed video data to Resolume Arena using NDI through Wi-Fi.</description>
     </item>
   </channel>
 </rss>

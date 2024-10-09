@@ -29,10 +29,12 @@
 
 {{ range $events }}
 <p>
-    <div>
-        <span><b><u>{{ .name}}</u></b></span> 
+    <div style="display: flex;">
+        <span style="max-width: 80%;">
+            <b><u>{{ .name}}</u></b>
+        </span> 
         
-        <span style="float: right;">
+        <span style="margin-left: auto; min-width: 8em;">
             <a class="icon" target="_blank" rel="noopener" href="{{ .page.link }}" aria-label="{{ .page.site }}">
                 <i class="fab fa-{{ lower .page.site }}" aria-hidden="true"></i> Event Page
             </a>

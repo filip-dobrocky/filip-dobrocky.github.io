@@ -1,0 +1,9 @@
+<div style="display: flex">
+    {{  $n_pics := (len .Params)}}
+    {{- range (seq 0 (sub $n_pics 1) ) }}
+        {{- $pic := $.Get . }}
+        <span style="width: {{ math.Div 100.0 $n_pics }}%; padding: 3px;">
+            <img src="{{ $pic }}" style="width: 100%;">
+        </span>
+    {{- end }}
+</div>
