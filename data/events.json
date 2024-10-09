@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "name":"Erase Head @ 112/113 output",
+      "date": "2024-10-17T18:00:00+02:00",
+      "description": "Sound performance focusing on the process of catharsis using the medium of magnetic tape",
+      "location": "CO.LABS (Kounicova 20, Brno)",
+      "page": {"site": "facebook", "link": "https://fb.me/e/2uBqmAYqh"}
+    },
+    {
+      "name":"STRUCTURE @ SONDA festival - Sonic Spaces",
+      "date": "2024-11-23T17:00:00+02:00",
+      "description": "Generative AV performance",
+      "location": "Studio Marta (Bayerova 575, Brno)",
+      "page": {"site": "facebook", "link": "https://fb.me/e/2vV7mQ08I"}
+    },
+    {
+      "name":"SONDA: Lom Hády @ SONDA festival - Sonic Spaces",
+      "date": "2024-11-02T15:00:00+02:00",
+      "description": "Collaborative installation",
+      "location": "Hády quarry, Brno",
+      "page": {"site": "facebook", "link": "https://fb.me/e/hFaKXZ9gl"}
+    }
+  ]
+}

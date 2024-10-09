@@ -1,0 +1,49 @@
+{{ $events := slice }}
+{{ $type := "" }}
+
+
+{{ if .Get 0 }}
+    {{ range .Site.Data.events.list }}
+        {{ if ge (time.AsTime .date) now }}
+            {{ $events = $events | append . }}
+        {{ end }}
+    {{ end }}
+
+    {{$type = "upcoming"}}
+
+    {{$events = sort $events "date" "asc"}}
+{{ else }}
+    {{ range .Site.Data.events.list }}
+    {{ if lt (time.AsTime .date) now }}
+        {{ $events = $events | append . }}
+    {{ end }}
+    {{ end }}
+
+    {{$type = "past"}}
+
+    {{$events = sort $events "date" "desc"}}
+{{ end }}
+
+
+
+
+{{ range $events }}
+<p>
+    <div>
+        <span><b><u>{{ .name}}</u></b></span> 
+        
+        <span style="float: right;">
+            <a class="icon" target="_blank" rel="noopener" href="{{ .page.link }}" aria-label="{{ .page.site }}">
+                <i class="fab fa-{{ lower .page.site }}" aria-hidden="true"></i> Event Page
+            </a>
+        </span>
+    </div>
+    <div><b>{{ time.AsTime .date | time.Format "Mon 02/01/2006"}}</b> at <i>{{ .location }}</i></div>
+    <div>{{ .description}}</div>
+    <div>
+        
+    </div>
+</p>
+{{ else }}
+<i>no {{ $type }} events</i>
+{{ end }}

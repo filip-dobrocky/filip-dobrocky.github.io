@@ -1,0 +1,7 @@
+{{ range .Site.Data.events.list }}
+<p>
+    <b>{{ .name}}</b> <br>  
+    {{ .date}} <br>
+    {{ .description}}
+</p>
+{{ end }}
