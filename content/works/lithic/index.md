@@ -13,10 +13,14 @@ A constellation of stones create an interactive environment, an interface, throu
 
 {{< vimeo 995435136>}}
 
-Capacitive field sensing is used to detect one touching a stone. A touch causes a reaction by mechanical excitation of the stones (vibrational motors and solenoid magnets are used and also a an audio speaker) and an advancement in the composition. Moreover, piezo pickups are used to capture the sound of the stones.
+Capacitive field sensing is used to detect one touching a stone. A touch causes a reaction by mechanical excitation of the stones (vibrational motors, solenoid magnets and an acoustic transducer are used) along with an advancement in the composition. Moreover, piezo pickups are used to capture the sound of the stones.
 
 {{< inlinepic "/images/content/lithic1.jpg" "/images/content/lithic2.jpg" >}}
 
 During the project presentation, the composition lasted around 15 minutes, with around 15 visitors who actively participated. Hovewer, the interaction model was designed to function indefinitely in an installation (implementing a finite state machine). The technical execution was carried out using the Max environment communicating with the ESP32 embedded platform via Wi-Fi.
 
 I crafted the project remaining loyal to the DIY ethos - it involved various technical challenges like drilling into stones. I like to think of the presented form as a prototype that can be refined in the future. 
+
+Below are some clips from testing the technologies used in the piece:
+
+{{< vimeo 1018206082>}}
