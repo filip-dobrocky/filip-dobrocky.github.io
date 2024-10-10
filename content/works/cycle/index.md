@@ -7,7 +7,7 @@ draft: false
 
 Originaly an electroacoustic composition, later video and live performance. 
 
-The main object of interest is the 𝒃𝒊𝒄𝒚𝒄𝒍𝒆 - a mode of transport, a lifestyle or a target of a culture war. In the hegemony of automobilism, this simple and efficient way of getting through the city is often considered "extreme". The aim of this recording is emancipation of the bicycle. Field recordings made during city commutes, the noise of cars, sounds of bicycles, bicycle played as a musical instrument (using a violin bow, mallets, brushes, etc.)... Cycle.
+The main object of interest is the 𝒃𝒊𝒄𝒚𝒄𝒍𝒆 - a mode of transport, a lifestyle or a target of a culture war. In the hegemony of automobilism, this simple and efficient way of getting through the city is often considered "extreme". The aim of this recording is emancipation of the bicycle. Field recordings made during city commutes, the noise of cars, sounds of bicycles, bicycle played as a musical instrument. Cycle.
 
 ## sound
 
@@ -26,7 +26,7 @@ I started with recording commutes around the city, making a DIY mount for my rec
 
 Later I made some recordings in a bicycle workshop where I played the bicycle as a musical instrument, using mallets, percussion brushes and a violin bow. I also made electromagnetic recordings of a hub dynamo. I sampled some Czech politicians, who are not the biggest fans of cycling, too.
 
-These processes were then synthetised into ~20 minute composition of five parts, the form of which is cyclical.
+These processes were then synthetised into a ~20 minute composition of five parts, the form of which is cyclical.
 
 ## video
 
