@@ -4,7 +4,11 @@ title = "Filip Dobrocky"
 theme = "cactus"
 copyright = "Filip Dobrocky" # cactus will use title if copyright is not set
 disqusShortname = "FDobrocky" # Used when comments is enabled. Cactus will use site title if not set
-googleAnalytics = "G-DKYR6BSRDK"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-DKYR6BSRDK'
+
 
 
 # summaryLength = 2
@@ -60,7 +64,6 @@ weight = 6
 
   colortheme = "dark" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = false # default
 
   # Home page settings
