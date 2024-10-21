@@ -1,10 +1,10 @@
-baseURL = "https://example.com"
+baseURL = "https://filip-dobrocky.github.io/"
 languageCode = "en-us"
 title = "Filip Dobrocky"
 theme = "cactus"
 copyright = "Filip Dobrocky" # cactus will use title if copyright is not set
-disqusShortname = "Dobrocky" # Used when comments is enabled. Cactus will use site title if not set
-# googleAnalytics = "UA-1234-5"
+disqusShortname = "FDobrocky" # Used when comments is enabled. Cactus will use site title if not set
+googleAnalytics = "G-DKYR6BSRDK"
 
 
 # summaryLength = 2
