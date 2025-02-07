@@ -7,14 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Filip Dobrocky</copyright>
-    <lastBuildDate>Wed, 09 Oct 2024 10:07:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 17:26:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geofónie</title>
+      <link>http://localhost:1313/works/geofonie/</link>
+      <pubDate>Fri, 01 Nov 2024 17:26:52 +0100</pubDate>
+      <guid>http://localhost:1313/works/geofonie/</guid>
+      <description>Geofónie is the result of the Trychtýř 2024 open call, the goal of which was to create a site-specific collective sound installation for Brno&amp;rsquo;s former limestone quarry Hády, now a nature reserve and a popular recreation area on the city.&#xA;Artyčok TV&amp;rsquo;s report:&#xA;The open call brought together artists of diverse backgrounds and resulted in a multi-layered spatial sound installation exploring the location&amp;rsquo;s geology. The constellation of objects, forming an IoT network, generates a varying soundscape by the means of sonification (scanning the surface of various limestones), or live processing the sound of limestones dissolving in acid.</description>
+    </item>
     <item>
       <title>Events</title>
       <link>http://localhost:1313/events/</link>
       <pubDate>Wed, 09 Oct 2024 10:07:00 +0200</pubDate>
       <guid>http://localhost:1313/events/</guid>
-      <description>Events upcoming SONDA: Lom Hády @ SONDA festival - Sonic Spaces&#xD;Event Page&#xD;Sat 02/11/2024 at Hády quarry, Brno&#xD;Collaborative installation&#xD;STRUCTURE @ SONDA festival - Sonic Spaces&#xD;Event Page&#xD;Sat 23/11/2024 at Studio Marta (Bayerova 575, Brno)&#xD;Generative AV performance&#xD;past Erase Head @ 112/113 output&#xD;Event Page&#xD;Thu 17/10/2024 at CO.LABS (Kounicova 20, Brno)&#xD;Sound performance focusing on the process of catharsis using the medium of magnetic tape&#xD;</description>
+      <description>Events upcoming no upcoming events&#xD;past STRUCTURE @ SONDA festival - Sonic Spaces&#xD;Event Page&#xD;Sat 23/11/2024 at Studio Marta (Bayerova 575, Brno)&#xD;Generative AV performance&#xD;SONDA: Lom Hády @ SONDA festival - Sonic Spaces&#xD;Event Page&#xD;Sat 02/11/2024 at Hády quarry, Brno&#xD;Collaborative installation&#xD;Erase Head @ 112/113 output&#xD;Event Page&#xD;Thu 17/10/2024 at CO.LABS (Kounicova 20, Brno)&#xD;Sound performance focusing on the process of catharsis using the medium of magnetic tape&#xD;</description>
     </item>
     <item>
       <title>Code</title>

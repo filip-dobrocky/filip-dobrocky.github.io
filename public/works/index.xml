@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Filip Dobrocky</copyright>
-    <lastBuildDate>Sat, 11 May 2024 13:29:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 17:26:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geofónie</title>
+      <link>http://localhost:1313/works/geofonie/</link>
+      <pubDate>Fri, 01 Nov 2024 17:26:52 +0100</pubDate>
+      <guid>http://localhost:1313/works/geofonie/</guid>
+      <description>Geofónie is the result of the Trychtýř 2024 open call, the goal of which was to create a site-specific collective sound installation for Brno&amp;rsquo;s former limestone quarry Hády, now a nature reserve and a popular recreation area on the city.&#xA;The open call brought together artists of diverse backgrounds and resulted in a multi-layered spatial sound installation exploring the location&amp;rsquo;s geology. The constellation of objects, forming an IoT network, creates a soundscape by the means of sonification (scanning the surface of various limestones), or live processing the sound of limestones dissolving in acid.</description>
+    </item>
     <item>
       <title>Structure</title>
       <link>http://localhost:1313/works/structure/</link>

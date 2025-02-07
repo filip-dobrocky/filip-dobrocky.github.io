@@ -31,20 +31,25 @@ Engineer's degree
 **Gymnázium J. G. Tajovského, Banská Bystrica**  
 Mathemathics class
 {{< endcolumns>}}
+**Final Theses**
+- [*Artificial Intelligence for Video Sonification*](https://www.vut.cz/en/students/final-thesis/detail/151162)  
+Master's thesis at BUT
+- [*Experimental software musical instrument*](https://www.vut.cz/en/students/final-thesis/detail/133499)  
+Bachelor's thesis at BUT
 
 ### experience
 
-{{< columns>}}
-2022-
-{{< column>}}
-**Rekola Bikesharing**  
-Bicycle mechanic  
-{{< endcolumns>}}
 {{< columns>}}
 2023-
 {{< column>}}
 **Bazmek entertainment**  
 Music composition & sound design for theatre (+ other media)  
+{{< endcolumns>}}
+{{< columns>}}
+2022-
+{{< column>}}
+**Rekola Bikesharing**  
+Bicycle mechanic  
 {{< endcolumns>}}
 {{< columns>}}
 2022
@@ -66,6 +71,8 @@ Collaborative art project presented at SONDA festival
 *DaVinci Resolve*
 - Audio programming  
 *JUCE framework*
+- Embedded platforms  
+*ESP32, Arduino, Daisy Seed, Raspberry Pi*
 - Computer vision  
 *OpenCV, object detection, MOT*
 - Bicycle repair and building

@@ -59,6 +59,9 @@ weight = 6
     noClasses = true
     style = "dracula"
     tabWidth = 4
+  [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [params]
 
