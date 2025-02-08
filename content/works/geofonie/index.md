@@ -9,7 +9,9 @@ Geofónie is the result of the Trychtýř 2024 open call, the goal of which was 
 
 Artyčok TV's [report](https://artycok.tv/cs/post/sonda-festival-lom-hady):
 
-<iframe width="100%" height="400" src="https://artycok.tv/cs/embed/03dd85be-ed5b-421d-90d3-89ef4f5b2cb5" frameborder="0" allowfullscreen=""></iframe>
+<div style="position:relative;padding-top:66%;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://artycok.tv/cs/embed/03dd85be-ed5b-421d-90d3-89ef4f5b2cb5" frameborder="0" allowfullscreen=""></iframe>
+</div>
 
 The open call brought together artists of diverse backgrounds and resulted in a multi-layered spatial sound installation exploring the location's geology. The constellation of objects, forming an IoT network, generates a varying soundscape by the means of sonification (scanning the surface of various limestones), or live processing the sound of limestones dissolving in acid.
 
@@ -28,3 +30,9 @@ Installation credits:
 <li>Jiří Y. Suchánek – project coordination, mechatronics, kinetic objects, code, sound  
 </ul>
 </small>
+
+{{< inlinepic "/images/content/geofonie1.jpg" >}}
+{{< inlinepic "/images/content/geofonie3.jpg" "/images/content/geofonie2.jpg" >}}
+{{< inlinepic "/images/content/geofonie4.jpg" "/images/content/geofonie5.jpg" >}}
+{{< inlinepic "/images/content/geofonie6.jpg" >}}
+<sub style="text-align: center">Photos: Karolina Raimund</sub>
