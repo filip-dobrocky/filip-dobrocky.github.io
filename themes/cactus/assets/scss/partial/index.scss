@@ -2,7 +2,7 @@
   display: grid;
   grid-gap: 10px; /* Adjust spacing between items */
   grid-template-columns: 1fr; 
-  grid-auto-rows: 10vh;
+  grid-auto-rows: minmax(min-content, 10em);
 
   a.work-item {
     display: flex;
@@ -64,7 +64,6 @@
 @media (min-width: 600px) {
   .works-grid {
     grid-template-columns: repeat(auto-fit, minmax(100px, auto));
-    grid-auto-rows: 15vh; /* Base height for items */
     grid-auto-flow: dense; /* Fills in gaps */
 
     a.work-item:nth-child(1) { grid-column: span 3; grid-row: span 1; }
