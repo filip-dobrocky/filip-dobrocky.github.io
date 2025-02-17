@@ -2,7 +2,7 @@
   display: grid;
   grid-gap: 10px; /* Adjust spacing between items */
   grid-template-columns: 1fr; 
-  grid-auto-rows: minmax(min-content, 10em);
+  grid-auto-rows: minmax(min-content, auto);
 
   a.work-item {
     display: flex;
@@ -10,6 +10,7 @@
     justify-content: center;
     align-items: center;
     border-radius: 5px;
+    padding: 20px;
 
     text-decoration: none;
     color: inherit;
@@ -26,13 +27,13 @@
     }
 
     .work-title {
-
       font-size: 18px;
     }
 
     .work-desc {
       color: $color-meta;
       font-size: 14px;
+      text-align: center;
     }
   }
 
