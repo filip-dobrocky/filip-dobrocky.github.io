@@ -12,6 +12,13 @@ Filip Dobrocký (\* 1998, Banská Bystrica, Slovakia) is a sound designer, audio
 
 ### education
 {{< columns>}}
+2025
+{{< column>}}
+**IEM / Kunstuniversität Graz**  
+Computer music and Sound Art  
+Erasmus exchange  
+{{< endcolumns>}}
+{{< columns>}}
 2023-
 {{< column>}}
 **Faculty of Music / Janacek Academy of Performing Arts**  
