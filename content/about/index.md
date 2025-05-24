@@ -59,7 +59,7 @@ Music composition & sound design for theatre (+ other media)
 Bicycle mechanic  
 {{< endcolumns>}}
 {{< columns>}}
-2022
+2022, 2024
 {{< column>}}
 **Projekt Trychtýř** (SVITAVA transmedia art lab)  
 Collaborative art project presented at SONDA festival  
@@ -88,6 +88,12 @@ Collaborative art project presented at SONDA festival
 
 ### workshops (attended)
 
+{{< columns>}}
+2025
+{{< column>}}
+**Fluid Corpus Manipulation (FluCoMa)**     
+(IEM Graz, Pierre Alexandre Tremblay)  
+{{< endcolumns>}}
 {{< columns>}}
 2024
 {{< column>}}
