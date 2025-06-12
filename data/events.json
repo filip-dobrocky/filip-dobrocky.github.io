@@ -20,6 +20,14 @@
       "description": "Collaborative installation",
       "location": "Hády quarry, Brno",
       "page": {"site": "facebook", "link": "https://fb.me/e/hFaKXZ9gl"}
+    },
+    {
+      "name":"subversive - SOUND ART EXHIBITION of the IEM",
+      "date": "2025-06-13T19:30:00+02:00",
+      "description": "SOUND ART EXHIBITION of the IEM",
+      "location": "Kunst Klub Kräftner (Reitschulgasse 13, Graz)",
+      "page": {"site": "font-awesome", "link": "https://www.aporon21.org/event/subversive-klangkunst-ausstellung-des-iem/"}
     }
+
   ]
 }
