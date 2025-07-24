@@ -27,13 +27,15 @@ jobs:
         run: |
           python cv-generator.py
 
-      - name: Copy CV PDF to public/cv
+      - name: Move CV PDF to public/cv
         run: |
           mkdir -p public/cv
-          cp cv-generator/cv.pdf public/cv/FilipDobrockyCV.pdf
+          mv cv-generator/cv.pdf public/cv/FilipDobrockyCV.pdf
 
-      - name: Upload CV PDF as artifact (optional)
-        uses: actions/upload-artifact@v4
-        with:
-          name: FilipDobrockyCV
-          path: public/cv/FilipDobrockyCV.pdf
+      - name: Commit and push CV PDF
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/cv/FilipDobrockyCV.pdf
+          git commit -m 'Update CV PDF [auto]' || echo "No changes to commit"
+          git push

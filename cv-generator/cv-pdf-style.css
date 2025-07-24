@@ -65,12 +65,8 @@ svg {
 }
 
 a {
-  color: var(--color-highlight);
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
+    color: var(--color-highlight);
+    text-decoration: none !important;
 }
 
 hr {

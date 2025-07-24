@@ -31,13 +31,13 @@ header = f"""
     </span>
     <div class='contact-row'>
         <span>
-            {phone_svg} +420 705 915 336
+            {phone_svg} <a href="tel:+420705915336">+420 705 915 336</a>
         </span>
         <span>
-            {envelope_svg} filip.dobrocky@gmail.com
+            {envelope_svg} <a href="mailto:filip.dobrocky@gmail.com">filip.dobrocky@gmail.com</a>
         </span>
         <span>
-            {globe_svg} filip-dobrocky.github.io
+            {globe_svg} <a href="https://filip-dobrocky.github.io">filip-dobrocky.github.io</a>
         </span>
     </div>
 </div>
