@@ -1,0 +1,166 @@
+@import url('./fontawesome-free-7.0.0-web/css/all.css');
+
+:root {
+  --color-normal: #292929;
+  --color-highlight: #355889;
+}
+
+@page {
+  size: A4;
+  margin: 1cm 1.5cm 1cm 1.5cm;
+}
+
+body {
+  font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', 'Courier New', monospace;
+  color: var(--color-normal);
+  background: #fff;
+  font-size: 10pt;
+  line-height: 1.5;
+}
+
+
+h1, h2, h3 {
+  color: var(--color-highlight);
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  font-weight: 700;
+}
+
+
+h1 {
+  font-size: 2em;
+  border-bottom: 2px solid var(--color-highlight);
+  padding-bottom: 0.2em;
+  margin-bottom: 0.8em;
+}
+
+
+h3 {
+  font-size: 1.1em;
+  border-bottom: 1px solid var(--color-highlight);
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+ul, ol {
+  margin: 0 0 0 0;
+}
+
+li {
+  margin-bottom: 0.2em;
+}
+
+
+strong, b {
+  color: var(--color-normal);
+}
+
+
+em, i {
+  color: var(--color-normal);
+}
+
+svg {
+  opacity: 0.7;
+}
+
+a {
+  color: var(--color-highlight);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+}
+
+p {
+  margin: 0 0 0 0;
+}
+
+section {
+  margin-bottom: 1.2em;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+th, td {
+  padding: 0.3em 0.6em;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 0.1em;
+}
+
+.header,
+.header span {
+  color: var(--color-normal); /* or any desired color */
+}
+
+.name-row {
+  display: block;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.name {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: var(--color-highlight) !important;
+}
+
+.contact-row {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+.contact-row > *:not(:last-child) {
+    padding-right: 2em;
+    /* Remove double lines by resetting right margin */
+    margin-right: 0;
+}
+
+.cv-row {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2em;
+    /* margin-bottom: 0.5em; */
+}
+.cv-detail {
+    flex: 1;
+}
+
+.cv-year {
+    min-width: 10ch;
+    text-align: left;
+    font-weight: bold;
+    color: var(--color-highlight);
+}
+
+@media print {
+  a {
+    color: var(--color-normal);
+    text-decoration: underline;
+  }
+}

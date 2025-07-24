@@ -1,0 +1,39 @@
+name: Build CV PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install md2pdf
+
+      - name: Run cv-generator.py
+        working-directory: cv-generator
+        run: |
+          python cv-generator.py
+
+      - name: Copy CV PDF to public/cv
+        run: |
+          mkdir -p public/cv
+          cp cv-generator/cv.pdf public/cv/FilipDobrockyCV.pdf
+
+      - name: Upload CV PDF as artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: FilipDobrockyCV
+          path: public/cv/FilipDobrockyCV.pdf

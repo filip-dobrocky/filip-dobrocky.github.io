@@ -59,35 +59,43 @@ Music composition & sound design for theatre (+ other media)
 Bicycle mechanic  
 {{< endcolumns>}}
 {{< columns>}}
-2022, 2024
+2022, 2024, 2025
 {{< column>}}
 **Projekt Trychtýř** (SVITAVA transmedia art lab)  
 Collaborative art project presented at SONDA festival  
 {{< endcolumns>}}
+{{< columns>}}
+2021-
+{{< column>}}
+**Freelance audio / art work**  
+Recording, mixing, installations, coding...
+{{< endcolumns>}}
 
 ### skills
 
-- Programming  
-*C++, Python, C#, Java, Javascript*  
-- Audio production  
-*Reaper, Ableton Live*
-- Audio engineering, recording
-- Interactive audio/art  
-*Max/MSP/Jitter, Pure Data, SuperCollider, FMOD studio, Touchdesigner*
-- Video editing  
-*DaVinci Resolve*
-- Audio programming  
-*JUCE framework*
-- Embedded platforms  
-*ESP32, Arduino, Daisy Seed, Raspberry Pi*
-- Computer vision  
-*OpenCV, object detection, MOT*
+- Programming: *C++, Python, C#, Java, Javascript*  
+- Audio production, engineering, recording: *Reaper, Ableton Live*
+- Interactive audio/art, creative coding: *SuperCollider, Max/MSP/Jitter, Pure Data, Touchdesigner, FMOD studio, p5.js*
+- DSP, Audio programming: *JUCE framework*
+- Embedded platforms: *ESP32, Arduino, Daisy Seed, Raspberry Pi*
+- Web development: *Hugo, React, Supabase*
+- Video editing: *DaVinci Resolve*
+- Computer vision: *OpenCV, object detection, MOT*
 - Bicycle repair and building
-- Vegetarian cooking
+- Vegetarian cooking, specialty coffee
 
+
+### languages
+English (proficient), German (learning), Slovak (native), Czech (proficient)
 
 ### workshops (attended)
 
+{{< columns>}}
+2025
+{{< column>}}
+**SMC Summer School** - Art Installations     
+(IEM Graz, Winfried Ritsch)  
+{{< endcolumns>}}
 {{< columns>}}
 2025
 {{< column>}}
