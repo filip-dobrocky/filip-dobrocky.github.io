@@ -28,10 +28,10 @@ jobs:
         run: |
           python cv-generator.py
 
-      - name: Move CV PDF to public/cv
+      - name: Move CV PDF to static/cv
         run: |
-          mkdir -p public/cv
-          mv cv-generator/cv.pdf public/cv/FilipDobrockyCV.pdf
+          mkdir -p static/cv
+          mv cv-generator/cv.pdf static/cv/FilipDobrockyCV.pdf
 
       - name: Set up authentication
         run: |
@@ -41,6 +41,6 @@ jobs:
 
       - name: Commit and push CV PDF
         run: |
-          git add public/cv/FilipDobrockyCV.pdf
+          git add static/cv/FilipDobrockyCV.pdf
           git commit -m 'Update CV PDF [auto]' || echo "No changes to commit"
           git push
