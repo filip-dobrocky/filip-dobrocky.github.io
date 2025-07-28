@@ -77,7 +77,7 @@ Recording, mixing, installations, coding...
 - Audio production, engineering, recording: *Reaper, Ableton Live*
 - Interactive audio/art, creative coding: *SuperCollider, Max/MSP/Jitter, Pure Data, Touchdesigner, FMOD studio, p5.js*
 - DSP, Audio programming: *JUCE framework*
-- Embedded platforms: *ESP32, Arduino, Daisy Seed, Raspberry Pi*
+- Embedded development: *ESP32, Arduino, STM32, Daisy Seed, Raspberry Pi, PlatformIO*
 - Web development: *Hugo, React, Supabase*
 - Video editing: *DaVinci Resolve*
 - Computer vision: *OpenCV, object detection, MOT*
