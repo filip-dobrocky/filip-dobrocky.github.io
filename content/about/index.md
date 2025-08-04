@@ -79,14 +79,14 @@ Audio hardware assembly
 
 ### skills
 
-- Programming: *C++, Python, C#, Java, Javascript*  
-- Audio production, engineering, recording: *Reaper, Ableton Live*
-- Interactive audio/art, creative coding: *SuperCollider, Max/MSP/Jitter, Pure Data, Touchdesigner, FMOD studio, p5.js*
-- DSP, Audio programming: *JUCE framework*
-- Embedded development: *ESP32, Arduino, STM32, Daisy Seed, Raspberry Pi, PlatformIO*
-- Web development: *Hugo, React, Supabase*
-- Video editing: *DaVinci Resolve*
-- Computer vision: *OpenCV, object detection, MOT*
+- **Programming**: *C++, Python, C#, Java, Javascript*  
+- **Audio production, engineering, recording**: *Reaper, Ableton Live*
+- **Interactive audio/art, creative coding**: *SuperCollider, Max/MSP/Jitter, Pure Data, Touchdesigner, FMOD studio, p5.js*
+- **DSP, Audio programming**: *JUCE framework*, *Gen*, *DaisySP*
+- **Embedded development**: *ESP32, Arduino, STM32, Daisy Seed, Raspberry Pi, PlatformIO*
+- **Web development**: *Hugo, React, Supabase*
+- **Video editing**: *DaVinci Resolve*
+- **Computer vision**: *OpenCV, object detection, MOT*
 - Bicycle repair and building
 - Vegetarian cooking, specialty coffee
 
