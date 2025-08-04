@@ -20,12 +20,21 @@ phone_svg = load_svg("fontawesome-free-7.0.0-web/svgs/solid/phone.svg")
 envelope_svg = load_svg("fontawesome-free-7.0.0-web/svgs/solid/envelope.svg")
 globe_svg = load_svg("fontawesome-free-7.0.0-web/svgs/solid/globe.svg")
 
+linkedin_svg = load_svg("fontawesome-free-7.0.0-web/svgs-full/brands/linkedin.svg")
+github_svg = load_svg("fontawesome-free-7.0.0-web/svgs-full/brands/github.svg")
+bandcamp_svg = load_svg("fontawesome-free-7.0.0-web/svgs-full/brands/bandcamp.svg")
+
 header = f"""
 <div class='header'>
-    <div class='name-row'>
+    <span class='name-row'>
         <span class='title'>Ing.</span>
         <span class='name'>Filip Dobrocký</span>
-    </div>
+        <span class='links'>
+            <a href="https://github.com/filip-dobrocky">{github_svg}</a>
+            <a href="https://www.linkedin.com/in/filip-dobrocky">{linkedin_svg}</a>
+            <a href="https://filipdobrocky.bandcamp.com">{bandcamp_svg}</a>
+        </span>
+    </span>
     <span class='location'>
         {house_svg} Brno, CZ
     </span>

@@ -106,31 +106,45 @@ th, td {
 }
 
 .name-row {
-  display: block;
+  display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: space-between;
 }
 
 .title {
     font-size: 0.8em;
     font-style: italic;
+    text-align: right;
+    flex: 1;
 }
 
 .name {
     font-size: 1.5em;
     font-weight: bold;
     color: var(--color-highlight) !important;
+    text-align: center;
+    flex: 1;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0em;
+    font-size: 1.2em;
+    flex: 1;
 }
 
 .contact-row {
-    display: block;
+    display: flex;
     justify-content: center;
     align-items: center;
     gap: 1em;
+    flex-wrap: nowrap;
 }
 
 .contact-row > *:not(:last-child) {
-    padding-right: 2em;
+    padding-right: 1em;
     /* Remove double lines by resetting right margin */
     margin-right: 0;
 }
