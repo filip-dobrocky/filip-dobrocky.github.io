@@ -70,6 +70,12 @@ Collaborative art project presented at SONDA festival
 **Freelance audio / art work**  
 Recording, mixing, installations, coding...
 {{< endcolumns>}}
+{{< columns>}}
+2020
+{{< column>}}
+**Audified**  
+Audio hardware assembly
+{{< endcolumns>}}
 
 ### skills
 
