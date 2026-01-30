@@ -1,7 +1,7 @@
 ---
 title: "Ecosystem"
 description: "networked sound installation"
-date: 2025-10-01T16:00:00+02:00
+date: 2025-11-01T16:00:00+02:00
 draft: false
 ---
 
@@ -16,7 +16,7 @@ While the cyber-animals express themselves through sound (or light), the essence
 
 # PicidÆ
 
-The first instance of the Ecosystem included one form of cyber-species named **PicidÆ** (refering to the biological family of woodpeckers). The rhythmical drumming of woodpeckers is mainly of social character — it serves as a way of advertising teritory and communication between potential partners. The cyber-woodpeckers take shape of compact sculptures fusing organic material and electronics. 
+The first instance of the Ecosystem included one form of cyber-species named **PicidÆ** (referring to the biological family of woodpeckers). The rhythmical drumming of woodpeckers is mainly of social character — it serves as a way of advertising territory and communication between potential partners. The cyber-woodpeckers take the shape of compact sculptures fusing organic material and electronics. 
 
 The installation came about during the collaborative project [TRYCHTÝŘ IV](svitava.org/udalost/open-call-trychtyr-iv-2025/) with the common theme of *"new wilderness"*, which resulted in various artistic interventions in the space of *Theatre on Orlí Street* (Brno, CZ) where [SONDA 2025](https://www.fullmoonzine.cz/festival-sonda-murcof-marco-donnarumma-a-dalsi) — festival of experimental music and sonic arts — took place. 12 cyber-woodpeckers were placed throughout the foyer of the theatre, rewilding the sonic environment of the space.
 
@@ -26,9 +26,9 @@ The installation came about during the collaborative project [TRYCHTÝŘ IV](svi
 
  The Cyber Ecosystem was later diversified by the addition of new species: **Posteriformes** (Passeriformes — biological order of songbirds, Posteri — those who come after). The physiology of these beings is adapted for making melodic sounds, which serve as their means of expression. They are also capable of visual evolutionary signaling by radiating colorful light.
 
-The voices of these creatures come from physical modeling synthesis of the avian syrinx, shaped by a physical tube resonator. The birdsong-like patterns are encoded into a series of machine words, then transmitted and mutatated.
+The voices of these creatures come from physical modeling synthesis of the avian syrinx, shaped by a physical tube resonator. The birdsong-like patterns are encoded into a series of machine words, then transmitted and mutated.
 
- The second instance of the installation *Ecosystem 2.0: PicidÆ + Posteriformes* filled the emergency staircase of the Music Faculty of Janacek Academy of Performing Arts, with 15 specimen (7 woodpeckers + 8 songbirds). The installation ran throughout the afternoon and the evolving soundscape transformed a space which is normally used by the students and employees of the faculty as a mere passageway.
+ The second instance of the installation *Ecosystem 2.0: PicidÆ + Posteriformes* filled the emergency staircase of the Music Faculty of Janáček Academy of Performing Arts, with 15 specimens (7 woodpeckers + 8 songbirds). The installation ran throughout the afternoon and the evolving soundscape transformed a space which is normally used by the students and employees of the faculty as a mere passageway.
 
 <div style="display: flex; gap: 1em; justify-content: center; align-items: flex-start;">
   <div style="width: 79%;">
