@@ -31,7 +31,7 @@ The voices of these creatures come from physical modeling synthesis of the avian
  The second instance of the installation *Ecosystem 2.0: PicidÆ + Posteriformes* filled the emergency staircase of the Music Faculty of Janacek Academy of Performing Arts, with 15 specimen (7 woodpeckers + 8 songbirds). The installation ran throughout the afternoon and the evolving soundscape transformed a space which is normally used by the students and employees of the faculty as a mere passageway.
 
 <div style="display: flex; gap: 1em; justify-content: center; align-items: flex-start;">
-  <div style="width: 60%;">
+  <div style="width: 79%;">
     {{< vimeo 1160225324>}}
   </div>
   <div style="width: 25%;">
