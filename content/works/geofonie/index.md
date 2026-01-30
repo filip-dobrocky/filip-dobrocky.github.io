@@ -20,16 +20,30 @@ I was focusing mainly on the technical realization - software and hardware archi
 <small>
 Installation credits:
 <ul>
-<li>Michal Marenčík (SK) – dissolution of limestones, objects, code, sound  
-<li>Eliška Janečková (CZ) – 3D prints, objects, speculative design  
-<li>Filip Dobrocký (SK) – code, electronics, Wi-Fi communication, sound  
-<li>Lucie Vobr Jestřabíková (CZ) – ceramics, porcelain  
-<li>Kristína Zubáková – assistance  
-<li>Jakub Nečas - assistance  
-<li>Mgr. Tomáš Kumpan, Ph.D. – professional consultant, geology  
 <li>Jiří Y. Suchánek – project coordination, mechatronics, kinetic objects, code, sound  
+<li>Filip Dobrocký (SK) – code, electronics, Wi-Fi communication, sound  
+<li>Michal Marenčík (SK) – dissolution of limestones, objects, code, sound  
+<li>Lucie Vobr Jestřabíková (CZ) – ceramics, porcelain  
+<li>Eliška Janečková (CZ) – 3D prints, objects, speculative design  
+<li>Mgr. Tomáš Kumpan, Ph.D. – professional consultant, geology  
 </ul>
 </small>
+
+<small>
+The installation (or parts of it) has since been exhibited in varying forms at several occasions:  
+<ul>
+<li>SONDA festival, Hády quarry, Brno, CZ, 11/2024  
+<li>Brno Art Week, co.labs, Brno, CZ, 3/2025  
+<li>Re:Senster lab, 3SI Art festival, Krakow, PL, 4/2025  
+<li>Světlo Valmez, Valašské Meziříčí, CZ, 9/2025  
+<li>Esc Medien Kunst Labor, Graz, AT 9-11/2025  
+<li>Dim Zvuku (House of Sound), Lviv, Ukraine, 12/2025  
+</ul>
+</small>
+
+More about the project [here](https://www.jiri-suchanek.net/en/project/geofonie/).
+
+{{< youtube HzzZqvGcuoU>}}
 
 {{< inlinepic "/images/content/geofonie1.jpg" >}}
 {{< inlinepic "/images/content/geofonie3.jpg" "/images/content/geofonie2.jpg" >}}
