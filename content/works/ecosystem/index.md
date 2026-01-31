@@ -18,7 +18,7 @@ While the cyber-animals express themselves through sound (or light), the essence
 
 The first instance of the Ecosystem included one form of cyber-species named **PicidÆ** (referring to the biological family of woodpeckers). The rhythmical drumming of woodpeckers is mainly of social character — it serves as a way of advertising territory and communication between potential partners. The cyber-woodpeckers take the shape of compact sculptures fusing organic material and electronics. 
 
-The installation came about during the collaborative project [TRYCHTÝŘ IV](svitava.org/udalost/open-call-trychtyr-iv-2025/) with the common theme of *"new wilderness"*, which resulted in various artistic interventions in the space of *Theatre on Orlí Street* (Brno, CZ) where [SONDA 2025](https://www.fullmoonzine.cz/festival-sonda-murcof-marco-donnarumma-a-dalsi) — festival of experimental music and sonic arts — took place. 12 cyber-woodpeckers were placed throughout the foyer of the theatre, rewilding the sonic environment of the space.
+The installation came about during the collaborative project [TRYCHTÝŘ IV](https://www.svitava.org/udalost/open-call-trychtyr-iv-2025/) with the common theme of *"new wilderness"*, which resulted in various artistic interventions in the space of *Theatre on Orlí Street* (Brno, CZ) where [SONDA 2025](https://www.fullmoonzine.cz/festival-sonda-murcof-marco-donnarumma-a-dalsi) — festival of experimental music and sonic arts — took place. 12 cyber-woodpeckers were placed throughout the foyer of the theatre, rewilding the sonic environment of the space.
 
 {{< vimeo 1136135916>}}
 
