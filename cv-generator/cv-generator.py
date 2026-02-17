@@ -1,4 +1,6 @@
 import re
+import inspect
+from pathlib import Path
 from md2pdf.core import md2pdf
 
 # Paths
@@ -75,8 +77,22 @@ def preprocess_markdown(input_path, output_path):
         f.write(final_content)
 
 def generate_pdf(md_path, pdf_path, css_path):
-    # Use md2pdf to convert markdown to PDF
-    md2pdf(pdf_path, md_file_path=md_path, css_file_path=css_path)
+    # Support both old and new md2pdf signatures
+    params = inspect.signature(md2pdf).parameters
+    kwargs = {}
+
+    if "md" in params:
+        kwargs["md"] = Path(md_path)
+    elif "md_file_path" in params:
+        kwargs["md_file_path"] = md_path
+
+    if "css" in params:
+        kwargs["css"] = Path(css_path)
+    elif "css_file_path" in params:
+        kwargs["css_file_path"] = css_path
+
+    output = Path(pdf_path) if "md" in params else pdf_path
+    md2pdf(output, **kwargs)
 
 if __name__ == "__main__":
     preprocess_markdown(input_md, output_md)

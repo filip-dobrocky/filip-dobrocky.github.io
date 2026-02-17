@@ -74,6 +74,15 @@ Bachelor's thesis at BUT
 
 <span class="cv-row">
 <span class="cv-year">
+2025-
+</span>
+<span class="cv-detail">
+**Audified**  
+VST plugin development  
+</span>
+</span>
+<span class="cv-row">
+<span class="cv-year">
 2023-
 </span>
 <span class="cv-detail">
