@@ -38,11 +38,10 @@ Engineer's degree
 **Gymnázium J. G. Tajovského, Banská Bystrica**  
 Mathemathics class
 {{< endcolumns>}}
-**Final Theses**
-- [*Artificial Intelligence for Video Sonification*](https://www.vut.cz/en/students/final-thesis/detail/151162)  
-Master's thesis at BUT
-- [*Experimental software musical instrument*](https://www.vut.cz/en/students/final-thesis/detail/133499)  
-Bachelor's thesis at BUT
+
+#### Final Theses
+- [*Artificial Intelligence for Video Sonification*](https://www.vut.cz/en/students/final-thesis/detail/151162)&nbsp;&nbsp;&nbsp;**/ Master's thesis at BUT**
+- [*Experimental software musical instrument*](https://www.vut.cz/en/students/final-thesis/detail/133499)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**/ Bachelor's thesis at BUT**
 
 ### experience
 
