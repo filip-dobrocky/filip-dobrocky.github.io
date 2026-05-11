@@ -34,3 +34,5 @@ Získejte aplikaci zde:
 
 
 <img src="/images/jamu.png" alt="targets" width="50%" />
+
+[Zásady ochrany osobních údajů](../privacy-policy)
