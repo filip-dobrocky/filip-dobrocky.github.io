@@ -9,7 +9,9 @@ build:
 ---
 
 # hear:here
+
 [EN](../beta)
+
 ### Platforma pro kolektivní tvorbu zvukové mapy
 
 
@@ -17,7 +19,18 @@ Otevřete aplikaci, nasaďte sluchátka, vyjděte ven. Při pohybu prostorem se 
 
 **hear:here** vychází z tradic zvukové procházky a GPS zvukového umění, ale stírá hranici mezi autorem a publikem. Neexistuje jediný skladatel. Dílo je platformou pro kolektivní zvukovou stopu — participativní vrstvou urbánního zvukového designu, otevřenou každému, kdo se pohybuje prostorem. Zatímco sluchátka charakteristicky privatizovala naši zkušenost města — každého posluchače uzavírají do osobního soundtracku — hear:here přináší obrat: hybridní prostor, v němž pohyb prostorem a sdílená tvorba společně utvářejí zkušenost místa.
 
+{{< inlinepic "/images/content/hear-here/screen1.jpg" "/images/content/hear-here/screen2.jpg">}}
+
 
 Projekt vznikl v rámci studia [Multimediální tvorby](https://hf.jamu.cz/studijni-obory/multimedialni-tvorba-2/) na [Katedře kompozice a multimediální tvorby](https://hf.jamu.cz/uchazeci-hf/katedry/katedra-kompozice-a-multimedialni-tvorby/) HF JAMU. 
+
+## Aplikace pro Android
+### Uzavřený test
+
+Připojte se do Google skupiny pro testování: https://groups.google.com/g/hear-here-testing
+
+Získejte aplikaci zde:
+- https://play.google.com/apps/testing/com.fdobrocky.hear_here
+
 
 <img src="/images/jamu.png" alt="targets" width="50%" />
