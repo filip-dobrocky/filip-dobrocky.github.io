@@ -8,7 +8,10 @@ build:
   list: never
 ---
 
+# hear:here
 [CZ](../beta-cz)
+### Platform for collective sound map creation
+
 
 Open the app, put in headphones, walk. As you move through the space, sounds recorded by other participants emerge from the spots where they were captured — spatialized, place-bound, shifting as you move closer or further away. Switch to soundmaking mode to record your own sounds and shape them with effects; they are placed on the map where you stand, and will be heard by whoever passes through after you.
 
