@@ -31,6 +31,12 @@ Join the Google Group for testing: https://groups.google.com/g/hear-here-testing
 Get the app at:
 - https://play.google.com/apps/testing/com.fdobrocky.hear_here
 
+## iOS app
+### Public beta
+
+Get the app via TestFlight:
+- https://testflight.apple.com/join/ZdP463Ue
+
 <img src="/images/jamu.png" alt="jamu" width="50%" />
 
 [Privacy Policy](../privacy-policy)

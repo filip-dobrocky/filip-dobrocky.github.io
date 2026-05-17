@@ -32,6 +32,12 @@ Připojte se do Google skupiny pro testování: https://groups.google.com/g/hear
 Získejte aplikaci zde:
 - https://play.google.com/apps/testing/com.fdobrocky.hear_here
 
+## Aplikace pro iOS
+### Veřejná beta
+
+Získejte aplikaci přes TestFlight:
+- https://testflight.apple.com/join/ZdP463Ue
+
 
 <img src="/images/jamu.png" alt="targets" width="50%" />
 
