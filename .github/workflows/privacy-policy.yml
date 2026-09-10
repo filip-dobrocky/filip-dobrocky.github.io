@@ -2,7 +2,7 @@ name: Sync privacy policy
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # before hugo.yml's 00:00 deploy
+    - cron: '0 23 1 * *'   # monthly, before hugo.yml's 00:00 deploy
   workflow_dispatch:
 
 permissions:
@@ -31,4 +31,5 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add content/hear-here/privacy-policy.md
           git commit -m 'Sync privacy policy [auto]' || exit 0
+          git pull --rebase origin main
           git push
