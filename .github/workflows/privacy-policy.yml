@@ -1,0 +1,34 @@
+name: Sync privacy policy
+
+on:
+  schedule:
+    - cron: '0 23 * * *'   # before hugo.yml's 00:00 deploy
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch upstream policy
+        env:
+          GH_TOKEN: ${{ secrets.WALKAPP_TOKEN }}
+        run: |
+          f=content/hear-here/privacy-policy.md
+          awk '/^---$/{n++} {print} n==2{exit}' "$f" > /tmp/new.md
+          echo >> /tmp/new.md
+          gh api repos/filip-dobrocky/WalkApp/contents/PRIVACY_POLICY.md \
+            -H 'Accept: application/vnd.github.raw' >> /tmp/new.md
+          mv /tmp/new.md "$f"
+
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add content/hear-here/privacy-policy.md
+          git commit -m 'Sync privacy policy [auto]' || exit 0
+          git push
