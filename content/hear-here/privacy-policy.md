@@ -61,6 +61,16 @@ No email address, phone number, or other contact information is collected unless
 | **Legal basis (GDPR)** | Art. 6(1)(a) — included within the upload consent described in Section 5. |
 | **What we do NOT collect** | Your ongoing or real-time GPS position during a walk is processed entirely on your device and is **never transmitted to our servers or any third party**. |
 
+<!-- ### 3.4 Technical and Diagnostic Data
+
+| What | Device model, operating system version, App version, crash logs, and error reports. |
+|---|---|
+| **Why** | To maintain App stability and fix bugs. |
+| **Legal basis (GDPR)** | Art. 6(1)(f) — our legitimate interest in operating a functioning service. |
+| **Retention** | Up to 90 days in diagnostic systems, then deleted. |
+
+We do not use advertising identifiers, tracking pixels, or third-party analytics SDKs. -->
+
 ---
 
 ## 4. Data We Do Not Collect
@@ -71,7 +81,7 @@ No email address, phone number, or other contact information is collected unless
 
 ---
 
-## 5. Uploading Recordings — Third-Party Sharing for Artistic Purposes
+## 5. Uploading Recordings — Publication in the App and Artistic Reuse
 
 This is the most important section of this policy. **Please read it carefully.**
 
@@ -81,6 +91,7 @@ By consenting, you acknowledge and agree that:
 
 - Every recording you make will be automatically transmitted to and stored by the controller (Filip Dobrocký) on secure cloud infrastructure.
 - Each upload includes the audio and the GPS coordinates of the recording location as embedded metadata.
+- Your uploaded recordings become **publicly audible to all other users of the App**, who can hear them at the location where you recorded them, labelled with the username you chose. Do not upload anything you are not willing to make public.
 - Your recordings may be used by the controller for **artistic purposes**, including but not limited to: sound-art installations, music composition, and derived works.
 
 **Withdrawal of consent:** You may withdraw your consent at any time by contacting filip.dobrocky@gmail.com. Withdrawal disables the recording feature for your account going forward. Because recordings may already have been incorporated into artistic works, deletion may not always be technically feasible; we will inform you of any such limitation when you make a deletion request. Withdrawal does not affect the lawfulness of uploads made before the withdrawal.
@@ -170,8 +181,8 @@ We may update this policy to reflect changes in our practices or applicable law.
 
 ## 11. Contact and Complaints
 
-**Filip Dobrocký, IČO: 23720271**  
-Nové sady 988/2, 602 00 Brno – Staré Brno, Czech Republic  
+**Filip Dobrocký, IČO: 23720271**
+Nové sady 988/2, 602 00 Brno – Staré Brno, Czech Republic
 filip.dobrocky@gmail.com
 
-For EU/EEA residents: if you are unsatisfied with our response, you have the right to lodge a complaint with your national supervisory authority (see Section 9.1).
+For EU/EEA residents: if you are unsatisfied with our response, you have the right to lodge a complaint with your national supervisory authority (see Section 8.1).
