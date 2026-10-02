@@ -10,7 +10,7 @@ build:
 
 # Privacy Policy
 
-**Last updated: 08/06/2026**
+**Last updated: 16/09/2026**
 
 ---
 
@@ -27,7 +27,7 @@ If you have questions about this policy or your data, contact us at filip.dobroc
 
 ## 2. Scope
 
-This policy applies to all users of the App worldwide. Where regional law grants you additional rights — in particular the EU/EEA (GDPR), the United Kingdom (UK GDPR), California (CCPA/CPRA), Brazil (LGPD), and Canada (PIPEDA) — those rights are described in Section 10.
+This policy applies to all users of the App worldwide. Where regional law grants you additional rights — in particular the EU/EEA (GDPR), the United Kingdom (UK GDPR), California (CCPA/CPRA), Brazil (LGPD), and Canada (PIPEDA) — those rights are described in Section 9.
 
 ---
 
@@ -61,7 +61,15 @@ No email address, phone number, or other contact information is collected unless
 | **Legal basis (GDPR)** | Art. 6(1)(a) — included within the upload consent described in Section 5. |
 | **What we do NOT collect** | Your ongoing or real-time GPS position during a walk is processed entirely on your device and is **never transmitted to our servers or any third party**. |
 
-<!-- ### 3.4 Technical and Diagnostic Data
+### 3.4 Content Reports
+
+| What | When you report another user's recording (see Section 10): the id of the reported recording, your anonymous user id, the optional description you enter, and the time of the report. |
+|---|---|
+| **Why** | To review the reported recording and remove content that breaks the rules in Section 10. |
+| **Legal basis (GDPR)** | Art. 6(1)(f) — our legitimate interest in keeping the App safe and lawful. |
+| **Retention** | Until the report has been reviewed and resolved, or until the reported recording is deleted. |
+
+<!-- ### 3.5 Technical and Diagnostic Data
 
 | What | Device model, operating system version, App version, crash logs, and error reports. |
 |---|---|
@@ -104,6 +112,7 @@ We apply technical and organisational measures proportionate to the sensitivity 
 
 - All data is transmitted over encrypted connections (TLS 1.2+).
 - Audio recordings are stored in **Cloudflare R2** object storage (EU region). Metadata associated with recordings is stored in **Supabase** (EU region). Both providers offer Data Processing Agreements in compliance with GDPR Art. 28.
+- Content reports (Section 3.4) are stored in Supabase and forwarded to us by e-mail through **Resend** (a transactional e-mail provider); the e-mail contains the report and the reported recording's metadata, never your audio.
 - Access to stored data is restricted to authorised personnel.
 
 No method of transmission or storage is 100% secure. If we become aware of a breach that is likely to affect your rights, we will notify you and the relevant supervisory authority as required by law.
@@ -173,16 +182,34 @@ Under the Personal Information Protection and Electronic Documents Act, Canadian
 
 ---
 
-## 10. Changes to This Policy
+## 10. Content Rules and Reporting
+
+Recordings you upload are public. Use common sense. Do not upload recordings that:
+
+- are illegal, or promote illegal activity;
+- harass, threaten, or demean any person or group, including hateful content;
+- are sexually explicit;
+- contain private conversations recorded without the knowledge of the participants (see Section 3.2);
+- reveal other people's personal data (names, addresses, phone numbers, etc.) without their permission;
+- contain music or other audio you do not have the rights to use;
+- are spam, advertising, or deliberately disruptive noise.
+
+We may remove any recording that we consider to break these rules, at our sole discretion and without prior notice. Users who repeatedly break the rules may lose access to the recording feature.
+
+**Reporting:** if you hear a recording that breaks these rules, press and hold it in the list of playing recordings on the listening screen and describe the problem. Reports are handled as described in Section 3.4. You may also e-mail filip.dobrocky@gmail.com.
+
+---
+
+## 11. Changes to This Policy
 
 We may update this policy to reflect changes in our practices or applicable law. We will notify you of material changes by displaying a notice in the App before they take effect. The "Last updated" date at the top of this document reflects the most recent revision. Continued use of the App after the effective date constitutes acceptance of the revised policy.
 
 ---
 
-## 11. Contact and Complaints
+## 12. Contact and Complaints
 
 **Filip Dobrocký, IČO: 23720271**
 Nové sady 988/2, 602 00 Brno – Staré Brno, Czech Republic
 filip.dobrocky@gmail.com
 
-For EU/EEA residents: if you are unsatisfied with our response, you have the right to lodge a complaint with your national supervisory authority (see Section 8.1).
+For EU/EEA residents: if you are unsatisfied with our response, you have the right to lodge a complaint with your national supervisory authority (see Section 9.1).
