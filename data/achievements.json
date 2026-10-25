@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "title": "Phone Orchestra",
+      "date": "2022-11-12",
+      "place": "SONDA festival, Brno Planetarium",
+      "type": "performance / installation"
+    },
+    {
+      "title": "Lithic",
+      "date": "2024-01-15",
+      "place": "HF JAMU",
+      "type": "installation",
+      "description": "Semestral piece presentation."
+    },
+    {
+      "title": "",
+      "date": "",
+      "place": "",
+      "type": "performance"
+    },
+    {
+      "title": "",
+      "date": "",
+      "place": "",
+      "type": "residency"
+    }
+  ]
+}
