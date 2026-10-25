@@ -70,7 +70,7 @@ weight = 6
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Sound designer / programmer / audio engineer / multimedia artist."
+  description = "Sound artist / engineer / software developer."
   mainSection = "works" # your main section
   mainSectionTitle = "Works"
   showAllPostsOnHomePage = true
