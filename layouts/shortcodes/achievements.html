@@ -1,0 +1,23 @@
+<style>
+  .achievement { padding: 0.3em 0.5em 0.3em calc(25ch + 0.5em); background: rgba(255, 255, 255, 0.03); }
+  .achievement:nth-of-type(even) { background: rgba(255, 255, 255, 0.07); }
+  .achievement .date { display: inline-block; width: 25ch; margin-left: -25ch; }
+  @media only screen and (max-width: 600px) {
+    .achievement { padding-left: 0.5em; }
+    .achievement .date { display: block; width: auto; margin-left: 0; }
+  }
+</style>
+{{ $year := "" }}
+{{ range sort .Site.Data.achievements.list "date" "desc" }}
+  {{ $y := substr .date 0 4 }}
+  {{ if ne $y $year }}
+    {{ $year = $y }}
+<h4>{{ $y }}</h4>
+  {{ end }}
+  {{ $dates := split .date " - " }}
+<div class="achievement">
+  <span class="date">{{ delimit $dates " – " }}</span><b>{{ if .link }}<a href="{{ .link }}">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</b>
+  | {{ upper .type }}
+  | <i>{{ .place }}</i>{{ with .description }} | {{ . }}{{ end }}
+</div>
+{{ end }}

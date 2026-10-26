@@ -1,0 +1,137 @@
+---
+title: "CV"
+date: 2024-07-29T12:31:41+02:00
+draft: false
+---
+
+[download PDF](/cv/FilipDobrockyCV.pdf)
+
+# CV
+
+### education
+{{< columns>}}
+2025
+{{< column>}}
+**IEM / Kunstuniversität Graz**  
+Computer music and Sound Art  
+Erasmus exchange  
+{{< endcolumns>}}
+{{< columns>}}
+2023-
+{{< column>}}
+**Faculty of Music / Janacek Academy of Performing Arts**  
+Multimedia creation  
+Bachelor of Arts  
+{{< endcolumns>}}
+{{< columns>}}
+2018-2023
+{{< column>}}
+**FEEC / Brno University of Technology**  
+Audio engineering - music production and recording  
+Engineer's degree
+{{< endcolumns>}}
+{{< columns>}}
+2014-2018
+{{< column>}}
+**Gymnázium J. G. Tajovského, Banská Bystrica**  
+Mathemathics class
+{{< endcolumns>}}
+
+#### Final Theses
+- [*Artificial Intelligence for Video Sonification*](https://www.vut.cz/en/students/final-thesis/detail/151162)&nbsp;&nbsp;&nbsp;**/ Master's thesis at BUT**
+- [*Experimental software musical instrument*](https://www.vut.cz/en/students/final-thesis/detail/133499)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**/ Bachelor's thesis at BUT**
+
+### experience
+
+{{< columns>}}
+2025-
+{{< column>}}
+**Audified**  
+VST plugin development  
+{{< endcolumns>}}
+{{< columns>}}
+2023-
+{{< column>}}
+**Bazmek entertainment**  
+Music composition & sound design for theatre (+ other media)  
+{{< endcolumns>}}
+{{< columns>}}
+2022-
+{{< column>}}
+**Rekola Bikesharing**  
+Bicycle mechanic  
+{{< endcolumns>}}
+{{< columns>}}
+2022, 2024, 2025
+{{< column>}}
+**Projekt Trychtýř** (SVITAVA transmedia art lab)  
+Collaborative art project presented at SONDA festival  
+{{< endcolumns>}}
+{{< columns>}}
+2021-
+{{< column>}}
+**Freelance audio / art work**  
+Recording, mixing, installations, coding...
+{{< endcolumns>}}
+{{< columns>}}
+2020
+{{< column>}}
+**Audified**  
+Audio hardware assembly
+{{< endcolumns>}}
+
+### skills
+
+- **Programming**: *C++, Python, C#, Java, Javascript*  
+- **Audio production, engineering, recording**: *Reaper, Ableton Live*
+- **Interactive audio/art, creative coding**: *SuperCollider, Max/MSP/Jitter, Pure Data, Touchdesigner, FMOD studio, p5.js*
+- **DSP, Audio programming**: *JUCE framework*, *Gen*, *DaisySP*
+- **Embedded development**: *ESP32, Arduino, STM32, Daisy Seed, Raspberry Pi, PlatformIO*
+- **Web development**: *Hugo, React, Supabase*
+- **Video editing**: *DaVinci Resolve*
+- **Computer vision**: *OpenCV, object detection, MOT*
+- Bicycle repair and building
+- Vegetarian cooking, specialty coffee
+
+
+### languages
+English (proficient), German (learning), Slovak (native), Czech (proficient)
+
+### workshops (attended)
+
+{{< columns>}}
+2025
+{{< column>}}
+**SMC Summer School** - Art Installations     
+(IEM Graz, Winfried Ritsch)  
+{{< endcolumns>}}
+{{< columns>}}
+2025
+{{< column>}}
+**Fluid Corpus Manipulation (FluCoMa)**     
+(IEM Graz, Pierre Alexandre Tremblay)  
+{{< endcolumns>}}
+{{< columns>}}
+2024
+{{< column>}}
+**Advanced sound design, live electronics and musical programming**     
+(HF JAMU, Bruno Liberda)  
+{{< endcolumns>}}
+{{< columns>}}
+2023
+{{< column>}}
+**Spatial sound and ambisonics**  
+(HF JAMU, Thomas Gorbach)  
+{{< endcolumns>}}
+{{< columns>}}
+2023
+{{< column>}}
+**Deep Learning for composers and artists**  
+(SVITAVA, Robert B. Lisek)  
+{{< endcolumns>}}
+{{< columns>}}
+2022
+{{< column>}}
+**Walking Over Bones** - Field recording  
+(Kunsthalle Bratislava, Tomáš Prištiak)  
+{{< endcolumns>}}

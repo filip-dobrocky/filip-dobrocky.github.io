@@ -4,7 +4,7 @@ from pathlib import Path
 from md2pdf.core import md2pdf
 
 # Paths
-input_md = "../content/about/index.md"
+input_md = "../content/cv/index.md"
 output_md = "cv_preprocessed.md"
 output_pdf = "cv.pdf"
 css_path = "cv-pdf-style.css"  # Adjust as needed

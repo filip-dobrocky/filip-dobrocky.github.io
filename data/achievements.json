@@ -3,126 +3,251 @@
     {
       "title": "Phone Orchestra",
       "date": "2022-11-12",
-      "place": "SONDA festival, Brno Planetarium",
-      "type": "performance / installation"
+      "place": "SONDA festival, Planetarium, Brno, CZ",
+      "type": "performance / installation",
+      "link": "/works/phone-orchestra/"
     },
     {
       "title": "Sny z Betonu",
       "date": "2023-12-10",
-      "place": "CO.LABS, Brno",
+      "place": "CO.LABS, Brno, CZ",
       "type": "Sound walk",
       "description": "Bazmek entertainment."
     },
     {
       "title": "Cycle (live)",
       "date": "2023-12-10",
-      "place": "CO.LABS, Brno",
+      "place": "CO.LABS, Brno, CZ",
       "type": "performance",
-      "description": "Playing the bicycle."
+      "description": "Playing the bicycle.",
+      "link": "/works/cycle/"
     },
     {
       "title": "Lithic",
       "date": "2024-01-15",
-      "place": "HF JAMU, Brno",
+      "place": "HF JAMU, Brno, CZ",
       "type": "installation",
-      "description": "Semestral piece presentation."
+      "description": "Semestral piece presentation.",
+      "link": "/works/lithic/"
     },
     {
       "title": "STRUCTURE",
       "date": "2024-05-15",
-      "place": "Divadlo na Orlí, Brno",
+      "place": "Divadlo na Orlí, Brno, CZ",
       "type": "AV performance",
-      "description": "Semestral piece presentation."
+      "description": "Semestral piece presentation.",
+      "link": "/works/structure/"
     },
     {
       "title": "STRUCTURE",
       "date": "2024-06-02",
-      "place": "SVITAVA transmedia art lab",
+      "place": "SVITAVA transmedia art lab, Brno, CZ",
       "type": "AV performance",
-      "description": "Open Studios Brno 2024."
+      "description": "Open Studios Brno 2024.",
+      "link": "/works/structure/"
     },
     {
       "title": "Hrdinky smíření",
       "date": "2024-06-24",
-      "place": "Industra, Brno",
+      "place": "Industra, Brno, CZ",
       "type": "Music for theatre",
       "description": "Bazmek entertainment."
     },
     {
       "title": "Erase Head",
       "date": "2024-10-17",
-      "place": "113/115 Output, CO.LABS, Brno",
+      "place": "113/115 Output, CO.LABS, Brno, CZ",
       "type": "performance",
       "description": "Tape machine performance."
     },
     {
       "title": "Geofónie",
       "date": "2024-11-02",
-      "place": "Lom Hády, Brno",
+      "place": "Lom Hády, Brno, CZ",
       "type": "installation",
-      "description": "With Trychtýř collective, part of SONDA 2024."
+      "description": "With Trychtýř collective, part of SONDA 2024.",
+      "link": "/works/geofonie/"
     },
     {
       "title": "STRUCTURE",
       "date": "2024-11-24",
-      "place": "SONDA festival, Studio Marta, Brno",
+      "place": "SONDA festival, Studio Marta, Brno, CZ",
       "type": "AV performance",
-      "description": "Before Suzan Peeters, SPIME.IM, Jasmine Guffond, Jan Jelinek."
+      "description": "Before Suzan Peeters, SPIME.IM, Jasmine Guffond, Jan Jelinek.",
+      "link": "/works/structure/"
     },
     {
       "title": "Posezení",
       "date": "2025-01-15",
-      "place": "Komenského náměstí, in front of HF JAMU, Brno",
+      "place": "Komenského náměstí, in front of HF JAMU, Brno, CZ",
       "type": "installation",
       "description": "Interactive ambient sound bench."
     },
     {
       "title": "Geofónie",
       "date": "2025-04-12",
-      "place": "CO.LABS, Brno",
+      "place": "CO.LABS, Brno, CZ",
       "type": "installation",
-      "description": "Brno Art Week 2025."
+      "description": "Brno Art Week 2025.",
+      "link": "/works/geofonie/"
     },
     {
       "title": "ultranoise",
       "date": "2025-06-13",
-      "place": "Kunst Klub Kräftner, Graz",
+      "place": "Kunst Klub Kräftner, Graz, AT",
       "type": "installation",
       "description": "Sound art exhibition of the IEM, ultrasound kinetic installation."
     },
     {
       "title": "IEM ensemble concert",
       "date": "2025-06-23",
-      "place": "IEM Cube, Graz",
+      "place": "IEM Cube, Graz, AT",
       "type": "concert"
     },
     {
       "title": "Unveil",
       "date": "2025-06-30",
-      "place": "IEM Cube, Graz",
+      "place": "IEM Cube, Graz, AT",
       "type": "performance",
       "description": "Final concert of the Live Electronics course at IEM."
     },
     {
       "title": "Geofónie",
       "date": "2025-09-19",
-      "place": "Světlo Valmez 2025, Valašské Meziříčí",
+      "place": "Světlo Valmez 2025, Valašské Meziříčí, CZ",
       "type": "installation",
-      "description": "With Trychtýř collective."
+      "description": "With Trychtýř collective.",
+      "link": "/works/geofonie/"
     },
     {
       "title": "Art / Work Balance",
       "date": "2025-10-06",
-      "place": "Lumos, Brno",
+      "place": "Lumos, Brno, CZ",
       "type": "live coding performance",
       "description": "Zítra nevstáváme, bazmek entertainment."
     },
     {
+      "title": "Art / Work Balance",
+      "date": "2025-10-14",
+      "place": "CMKK Nacht, Kultum, Graz, AT",
+      "type": "live coding performance"
+    },
+    {
       "title": "Music for N Computer Musicians",
       "date": "2025-10-29",
-      "place": "Fakulta zní, HF JAMU, Brno",
+      "place": "Fakulta zní, HF JAMU, Brno, CZ",
       "type": "performance",
       "description": "Piece for a synchronized laptop ensemble, using custom Minimal Computer Music software."
+    },
+    {
+      "title": "uuuhhhhhhh",
+      "date": "2025-11-30",
+      "place": "Soundchain, Divadlo na Orlí, Brno, CZ",
+      "type": "composition",
+      "description": "Piece for voice and live electronics, performed by Vojtěch Šembera."
+    },
+    {
+      "title": "PicidÆ",
+      "date": "2025-11-01",
+      "place": "SONDA festival, Divadlo na Orlí, Brno, CZ",
+      "type": "installation",
+      "description": "Solo installation part of Trychtýř project.",
+      "link": "/works/ecosystem/"
+    },
+    {
+      "title": "Art / Work Balance",
+      "date": "2025-12-03",
+      "place": "Studio soudobé hudby, HF JAMU, Brno, CZ",
+      "type": "live coding performance"
+    },
+    {
+      "title": "Le Placard / Brno Headphone Festival 2025",
+      "date": "2025-12-14",
+      "place": "Rello, Brno, CZ",
+      "type": "live set"
+    },
+    {
+      "title": "Ecosystem 2.0",
+      "date": "2026-01-22",
+      "place": "HF JAMU, Brno, CZ",
+      "type": "installation",
+      "description": "Semestral piece presentation.",
+      "link": "/works/ecosystem/"
+    },
+    {
+      "title": "Ceramic Landscapes",
+      "date": "2026-01-30",
+      "place": "NanoFestical, Kafara, Brno, CZ",
+      "type": "performance",
+      "description": "W/ Petr Němec and Sára Bočková"
+    },
+    {
+      "title": "Ecosystem 2.0",
+      "date": "2026-02-05",
+      "place": "Soundchain, Divadlo na Orlí, Brno, CZ",
+      "type": "installation",
+      "link": "/works/ecosystem/"
+    },
+    {
+      "title": "hear:here",
+      "date": "2026-05-19",
+      "place": "Špilberk Park, Brno, CZ",
+      "type": "sound walk",
+      "description": "Launch of hear:here, collective sound mapping platform."
+    },
+    {
+      "title": "„Samé schválnosti a vtipy“ – Janáčkovo Capriccio 1926",
+      "date": "2026-06-02",
+      "place": "HF JAMU, Brno, CZ",
+      "type": "live visuals",
+      "description": "W/ Matyáš Hubáček."
+    },
+    {
+      "title": "KRAA! #10 – Festival skutočne súčasnej hudby",
+      "date": "2026-06-19",
+      "place": "A4, Bratislava, SK",
+      "type": "live set"
+    },
+    {
+      "title": "PicidÆ 2.0",
+      "date": "2026-06-20",
+      "place": "113/115 Output, CO.LABS park, Brno, CZ",
+      "type": "installation",
+      "link": "/works/ecosystem/"
+    },
+    {
+      "title": "Prúd v zrýchlenom zábere",
+      "date": "2026-08-06",
+      "place": "Hraničář, Ústí nad Labem, CZ",
+      "type": "performance",
+      "description": "W/ Agáta Kertész."
+    },
+    {
+      "title": "Rizodencies 2026: Scores",
+      "date": "2026-09-01 - 2026-09-28",
+      "place": "Zavod Rizoma, Čermožiše, SI",
+      "type": "residency"
+    },
+    {
+      "title": "Geofónie",
+      "date": "2026-10-02 - 2026-10-04",
+      "place": "Biela noc, Bratislava, SK",
+      "type": "installation",
+      "description": "W/ Trychtýř collective.",
+      "link": "/works/geofonie/"
+    },
+    {
+      "title": "Ecosystem 2.0",
+      "date": "2026-10-04 - 2026-10-08",
+      "place": "Expozice nové hudby, Besední dům, Brno, CZ",
+      "type": "installation",
+      "link": "/works/ecosystem/"
+    },
+    {
+      "title": "hear:here",
+      "date": "2026-10-02 - 2026-10-09",
+      "place": "Expozice nové hudby, Špilberk, Brno, CZ",
+      "type": "sound walk"
     }
   ]
 }
