@@ -7,23 +7,122 @@
       "type": "performance / installation"
     },
     {
+      "title": "Sny z Betonu",
+      "date": "2023-12-10",
+      "place": "CO.LABS, Brno",
+      "type": "Sound walk",
+      "description": "Bazmek entertainment."
+    },
+    {
+      "title": "Cycle (live)",
+      "date": "2023-12-10",
+      "place": "CO.LABS, Brno",
+      "type": "performance",
+      "description": "Playing the bicycle."
+    },
+    {
       "title": "Lithic",
       "date": "2024-01-15",
-      "place": "HF JAMU",
+      "place": "HF JAMU, Brno",
       "type": "installation",
       "description": "Semestral piece presentation."
     },
     {
-      "title": "",
-      "date": "",
-      "place": "",
-      "type": "performance"
+      "title": "STRUCTURE",
+      "date": "2024-05-15",
+      "place": "Divadlo na Orlí, Brno",
+      "type": "AV performance",
+      "description": "Semestral piece presentation."
     },
     {
-      "title": "",
-      "date": "",
-      "place": "",
-      "type": "residency"
+      "title": "STRUCTURE",
+      "date": "2024-06-02",
+      "place": "SVITAVA transmedia art lab",
+      "type": "AV performance",
+      "description": "Open Studios Brno 2024."
+    },
+    {
+      "title": "Hrdinky smíření",
+      "date": "2024-06-24",
+      "place": "Industra, Brno",
+      "type": "Music for theatre",
+      "description": "Bazmek entertainment."
+    },
+    {
+      "title": "Erase Head",
+      "date": "2024-10-17",
+      "place": "113/115 Output, CO.LABS, Brno",
+      "type": "performance",
+      "description": "Tape machine performance."
+    },
+    {
+      "title": "Geofónie",
+      "date": "2024-11-02",
+      "place": "Lom Hády, Brno",
+      "type": "installation",
+      "description": "With Trychtýř collective, part of SONDA 2024."
+    },
+    {
+      "title": "STRUCTURE",
+      "date": "2024-11-24",
+      "place": "SONDA festival, Studio Marta, Brno",
+      "type": "AV performance",
+      "description": "Before Suzan Peeters, SPIME.IM, Jasmine Guffond, Jan Jelinek."
+    },
+    {
+      "title": "Posezení",
+      "date": "2025-01-15",
+      "place": "Komenského náměstí, in front of HF JAMU, Brno",
+      "type": "installation",
+      "description": "Interactive ambient sound bench."
+    },
+    {
+      "title": "Geofónie",
+      "date": "2025-04-12",
+      "place": "CO.LABS, Brno",
+      "type": "installation",
+      "description": "Brno Art Week 2025."
+    },
+    {
+      "title": "ultranoise",
+      "date": "2025-06-13",
+      "place": "Kunst Klub Kräftner, Graz",
+      "type": "installation",
+      "description": "Sound art exhibition of the IEM, ultrasound kinetic installation."
+    },
+    {
+      "title": "IEM ensemble concert",
+      "date": "2025-06-23",
+      "place": "IEM Cube, Graz",
+      "type": "concert"
+    },
+    {
+      "title": "Unveil",
+      "date": "2025-06-30",
+      "place": "IEM Cube, Graz",
+      "type": "performance",
+      "description": "Final concert of the Live Electronics course at IEM."
+    },
+    {
+      "title": "Geofónie",
+      "date": "2025-09-19",
+      "place": "Světlo Valmez 2025, Valašské Meziříčí",
+      "type": "installation",
+      "description": "With Trychtýř collective."
+    },
+    {
+      "title": "Art / Work Balance",
+      "date": "2025-10-06",
+      "place": "Lumos, Brno",
+      "type": "live coding performance",
+      "description": "Zítra nevstáváme, bazmek entertainment."
+    },
+    {
+      "title": "Music for N Computer Musicians",
+      "date": "2025-10-29",
+      "place": "Fakulta zní, HF JAMU, Brno",
+      "type": "performance",
+      "description": "Piece for a synchronized laptop ensemble, using custom Minimal Computer Music software."
     }
   ]
 }
