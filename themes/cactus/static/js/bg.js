@@ -55,6 +55,7 @@
     ctx.globalCompositeOperation = 'source-over';
     ctx.globalAlpha = 1;
     ctx.strokeStyle = color;
+    ctx.setLineDash([3, 4]);
     ctx.beginPath();
     var pts = [];
     for (y = 0; y < rows - 1; y++) for (x = 0; x < cols - 1; x++) {
