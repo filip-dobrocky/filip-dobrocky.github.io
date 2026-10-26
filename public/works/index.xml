@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Filip Dobrocky</title>
-    <link>http://localhost:1313/works/</link>
+    <link>https://filip-dobrocky.github.io/works/</link>
     <description>Recent content in Works on Filip Dobrocky</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Filip Dobrocky</copyright>
     <lastBuildDate>Sat, 01 Nov 2025 16:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://filip-dobrocky.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecosystem</title>
-      <link>http://localhost:1313/works/ecosystem/</link>
+      <link>https://filip-dobrocky.github.io/works/ecosystem/</link>
       <pubDate>Sat, 01 Nov 2025 16:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/works/ecosystem/</guid>
+      <guid>https://filip-dobrocky.github.io/works/ecosystem/</guid>
       <description>The work titled Ecosystem is a networked sound installation inspired by nature. It comprises fictive life-forms communicating by exchanging messages in the form of musical patterns.&#xA;While the cyber-animals express themselves through sound (or light), the essence of the conversation lies beyond what is humanly conceivable — messages are transmitted over a wireless mesh network. The accuracy of the transmission affects the behaviour of the communicating agents, therefore the physicality of the network (comprising dropped or delayed messages) shapes the overall soundscape.</description>
     </item>
     <item>
       <title>Geofónie</title>
-      <link>http://localhost:1313/works/geofonie/</link>
+      <link>https://filip-dobrocky.github.io/works/geofonie/</link>
       <pubDate>Fri, 01 Nov 2024 17:26:52 +0100</pubDate>
-      <guid>http://localhost:1313/works/geofonie/</guid>
+      <guid>https://filip-dobrocky.github.io/works/geofonie/</guid>
       <description>Geofónie is the result of the Trychtýř 2024 open call, the goal of which was to create a site-specific collective sound installation for Brno&amp;rsquo;s former limestone quarry Hády, now a nature reserve and a popular recreation area on the city.&#xA;Artyčok TV&amp;rsquo;s report:&#xA;The open call brought together artists of diverse backgrounds and resulted in a multi-layered spatial sound installation exploring the location&amp;rsquo;s geology. The constellation of objects, forming an IoT network, generates a varying soundscape by the means of sonification (scanning the surface of various limestones), or live processing the sound of limestones dissolving in acid.</description>
     </item>
     <item>
       <title>Structure</title>
-      <link>http://localhost:1313/works/structure/</link>
+      <link>https://filip-dobrocky.github.io/works/structure/</link>
       <pubDate>Sat, 11 May 2024 13:29:21 +0200</pubDate>
-      <guid>http://localhost:1313/works/structure/</guid>
+      <guid>https://filip-dobrocky.github.io/works/structure/</guid>
       <description>Structure is concieved as an audiovisual performance using generative 3D graphics and spatial sound. Synesthetic audiovisual gestalts are formed by means of micro-relationships of image and sound.&#xA;The resulting shapes of image and sound are instatiations of an abstract algotithmic structure working in virtual 3D domain - a strictly defined structure creating structures that are seemingly unpredictable.&#xA;The content itself comes from everyday life - field recordings form the basis of the sound and the 3D point clouds partly contain a model of the buildings of Brno.</description>
     </item>
     <item>
       <title>Lithic</title>
-      <link>http://localhost:1313/works/lithic/</link>
+      <link>https://filip-dobrocky.github.io/works/lithic/</link>
       <pubDate>Sun, 07 Jan 2024 14:29:37 +0200</pubDate>
-      <guid>http://localhost:1313/works/lithic/</guid>
+      <guid>https://filip-dobrocky.github.io/works/lithic/</guid>
       <description>My first multimedia project at Janacek Academy of Performing Arts and my first try at an installation.&#xA;The subject of the piece are stones, all collected at local former quarry Hády. I focused on the sonic and haptic qualities of stones, with a motivation grounded in phenomenology rather than geology. The stones attracted me with their visual purity and universality in meaning. A stone is usually associated with something rigid and stable - I question that with electro-mechanical excitation.</description>
     </item>
     <item>
       <title>Cycle</title>
-      <link>http://localhost:1313/works/cycle/</link>
+      <link>https://filip-dobrocky.github.io/works/cycle/</link>
       <pubDate>Sun, 07 May 2023 14:43:39 +0200</pubDate>
-      <guid>http://localhost:1313/works/cycle/</guid>
+      <guid>https://filip-dobrocky.github.io/works/cycle/</guid>
       <description>Originaly an electroacoustic composition, later video and live performance.&#xA;The main object of interest is the 𝒃𝒊𝒄𝒚𝒄𝒍𝒆 - a mode of transport, a lifestyle or a target of a culture war. In the hegemony of automobilism, this simple and efficient way of getting through the city is often considered &amp;ldquo;extreme&amp;rdquo;. The aim of this recording is emancipation of the bicycle. Field recordings made during city commutes, the noise of cars, sounds of bicycles, bicycle played as a musical instrument.</description>
     </item>
     <item>
       <title>Phone Orchestra</title>
-      <link>http://localhost:1313/works/phone-orchestra/</link>
+      <link>https://filip-dobrocky.github.io/works/phone-orchestra/</link>
       <pubDate>Mon, 07 Nov 2022 14:46:01 +0200</pubDate>
-      <guid>http://localhost:1313/works/phone-orchestra/</guid>
+      <guid>https://filip-dobrocky.github.io/works/phone-orchestra/</guid>
       <description>An interactive performance where the specators become performers, interpreting a visual score using the flashlights on their phones.&#xA;The piece is one of the results of the first iteration of collaborative project Trychtýř by SVITAVA transmedia art lab. The idea came collectively, the interactive visuals were created by Matúš Stenko and I took care of the programming, computer vision and sound design.&#xA;It was built using OpenCV in Python feeding data to Max via OSC, which in turn fed video data to Resolume Arena using NDI through Wi-Fi.</description>
     </item>
   </channel>

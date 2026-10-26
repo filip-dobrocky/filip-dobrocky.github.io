@@ -25,19 +25,9 @@ url = "/works"
 weight = 2
 
 [[menu.main]]
-name = "Events"
-url = "/events"
-weight = 3
-
-[[menu.main]]
 name = "Music"
 url = "/#projects"
 weight = 4
-
-[[menu.main]]
-name = "Code"
-url = "/code"
-weight = 5
 
 [[menu.main]]
 name = "About"
