@@ -108,7 +108,7 @@
       "title": "Unveil",
       "date": "2025-06-30",
       "place": "IEM Cube, Graz, AT",
-      "type": "performance",
+      "type": "composition",
       "description": "Final concert of the Live Electronics course at IEM."
     },
     {
@@ -229,6 +229,13 @@
       "type": "residency"
     },
     {
+      "title": "We Are In Your Garden",
+      "date": "2026-09-28",
+      "place": "Ars Electronica, Anton Bruckner University Linz, AT",
+      "type": "composition",
+      "description": "Sonic Saturday, DodekaOTTO listening experience - piece for 20-channel sound sculpture."
+    },
+    {
       "title": "Geofónie",
       "date": "2026-10-02 - 2026-10-04",
       "place": "Biela noc, Bratislava, SK",
@@ -246,8 +253,15 @@
     {
       "title": "hear:here",
       "date": "2026-10-02 - 2026-10-09",
-      "place": "Expozice nové hudby, Špilberk, Brno, CZ",
+      "place": "Expozice nové hudby, Špilberk park, Brno, CZ",
       "type": "sound walk"
+    },
+    {
+      "title": "Glagolská mše - Janáček Brno",
+      "date": "2026-10-13 - 2026-11-17",
+      "place": "Žlutý Kopec Water Tanks, Brno, CZ",
+      "type": "composition",
+      "description": "Ambisonic variation of the Glagolitic Mass by Leoš Janáček."
     }
   ]
 }
