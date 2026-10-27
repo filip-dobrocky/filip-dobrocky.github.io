@@ -3,6 +3,7 @@ title: "hear:here"
 description: "collective sound mapping platform"
 date: 2026-05-19T00:00:00+02:00
 draft: false
+thumbpos: "center 35%"
 ---
 
 **hear:here** draws from the traditions of soundwalking and GPS audio art, but dissolves the distinction between artist and audience. There is no single composer. The work is a platform for collective sonic inscription — a participatory layer of urban sound design, open to anyone moving through. Where the headphone has characteristically privatized our experience of the city, enclosing each listener in a personal soundtrack, hear:here proposes a reversal: a hybrid space in which physical movement and networked contribution jointly constitute the experience of place.
