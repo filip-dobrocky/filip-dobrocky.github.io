@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-08T00:00:00+02:00</lastmod>
+    <lastmod>2026-05-19T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/hear-here/</loc>
+    <lastmod>2026-05-19T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/works/</loc>
+    <lastmod>2026-05-19T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hear-here/</loc>
     <lastmod>2026-05-08T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/ecosystem/</loc>
-    <lastmod>2025-11-01T16:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/works/</loc>
     <lastmod>2025-11-01T16:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/works/geofonie/</loc>

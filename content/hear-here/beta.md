@@ -23,19 +23,12 @@ Open the app, put in headphones, walk. As you move through the space, sounds rec
 
 The project was developed as part of the Multimedia Creation programme at the [Department of Composition and Multimedia Creation](https://hf.jamu.cz/uchazeci-hf/katedry/katedra-kompozice-a-multimedialni-tvorba/) at HF JAMU. 
 
-## Android app
-### Closed testing
+## Get the app
 
-Join the Google Group for testing: https://groups.google.com/g/hear-here-testing
-
-Get the app at:
-- https://play.google.com/apps/testing/com.fdobrocky.hear_here
-
-## iOS app
-### Public beta
-
-Get the app via TestFlight:
-- https://testflight.apple.com/join/ZdP463Ue
+<div style="display: flex; gap: 1em; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <a href="https://apps.apple.com/us/app/hear-here/id6768606318"><img src="/images/app-store-badge.svg" alt="Download on the App Store" style="height: 40px; display: block; margin: 10px 0;"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fdobrocky.hear_here"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" style="height: 59px; display: block;"></a>
+</div>
 
 <img src="/images/jamu.png" alt="jamu" width="50%" />
 

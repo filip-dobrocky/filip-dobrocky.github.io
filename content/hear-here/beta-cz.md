@@ -24,20 +24,12 @@ Otevřete aplikaci, nasaďte sluchátka, vyjděte ven. Při pohybu prostorem se 
 
 Projekt vznikl v rámci studia [Multimediální tvorby](https://hf.jamu.cz/studijni-obory/multimedialni-tvorba-2/) na [Katedře kompozice a multimediální tvorby](https://hf.jamu.cz/uchazeci-hf/katedry/katedra-kompozice-a-multimedialni-tvorby/) HF JAMU. 
 
-## Aplikace pro Android
-### Uzavřený test
+## Získejte aplikaci
 
-Připojte se do Google skupiny pro testování: https://groups.google.com/g/hear-here-testing
-
-Získejte aplikaci zde:
-- https://play.google.com/apps/testing/com.fdobrocky.hear_here
-
-## Aplikace pro iOS
-### Veřejná beta
-
-Získejte aplikaci přes TestFlight:
-- https://testflight.apple.com/join/ZdP463Ue
-
+<div style="display: flex; gap: 1em; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <a href="https://apps.apple.com/us/app/hear-here/id6768606318"><img src="/images/app-store-badge.svg" alt="Download on the App Store" style="height: 40px; display: block; margin: 10px 0;"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fdobrocky.hear_here"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/cs_badge_web_generic.png" alt="Nyní na Google Play" style="height: 59px; display: block;"></a>
+</div>
 
 <img src="/images/jamu.png" alt="targets" width="50%" />
 
