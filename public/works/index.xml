@@ -24,6 +24,13 @@
       <description>&lt;p&gt;The work titled &lt;em&gt;Ecosystem&lt;/em&gt; is a networked sound installation inspired by nature. It comprises fictive life-forms communicating by exchanging messages in the form of musical patterns.&lt;/p&gt;&#xA;&lt;p&gt;While the cyber-animals express themselves through sound (or light), the essence of the conversation lies beyond what is humanly conceivable — messages are transmitted over a wireless mesh network. The accuracy of the transmission affects the behaviour of the communicating agents, therefore the physicality of the network (comprising dropped or delayed messages) shapes the overall soundscape. Each recipient of the message mutates the received pattern according to their &amp;ldquo;&lt;em&gt;DNA&lt;/em&gt;&amp;rdquo;, resulting in a decentralized genetic algorithm. The installation is designed to be &lt;em&gt;modular&lt;/em&gt;, &lt;em&gt;scalable&lt;/em&gt;, and &lt;em&gt;expandable&lt;/em&gt; — new species can be integrated into the infrastructure at any time.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Posezení</title>
+      <link>http://localhost:1313/works/posezeni/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/works/posezeni/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Posezení&lt;/strong&gt; [Sitting] is a sound bench — an intervention in public space in front of the Music Faculty of JAMU on Komenského náměstí, Brno. Sitting down on the bench activates generative ambient music that sounds from the wood itself. A prototype was installed and tested on site for 24 hours in January 2025.&lt;/p&gt;&#xA;&lt;p&gt;The space in front of the faculty is a busy place, passed through by all kinds of people. Inspired by Brian Eno&amp;rsquo;s definition of ambient music and generative music made for spaces of rest, the bench proposes the opposite of hostile architecture: an inviting place to stop, sit down and relax.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Geofónie</title>
       <link>http://localhost:1313/works/geofonie/</link>
       <pubDate>Fri, 01 Nov 2024 17:26:52 +0100</pubDate>
