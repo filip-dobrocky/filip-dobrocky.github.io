@@ -9,6 +9,8 @@ draft: false
 
 Open the app, put in headphones, walk. As you move through the space, sounds recorded by other participants emerge from the spots where they were captured — spatialized, place-bound, shifting as you move closer or further away. Switch to soundmaking mode to record your own sounds and shape them with effects; they are placed on the map where you stand, and will be heard by whoever passes through after you.
 
+<img src="/images/content/hear-here/hear-here-screen.webp" alt="hear:here app screen with a sound map of Brno" style="width: 50%;">
+
 The platform was launched with a sound walk in Špilberk Park, Brno, in May 2026, and later presented at the Expozice nové hudby festival (10/2026).
 
 ## Get the app
