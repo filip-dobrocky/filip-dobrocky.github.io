@@ -132,6 +132,29 @@ article {
   font-size: 1.5em;
   line-height: 1.25;
 }
+.posttitle-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.posttitle-row .work-nav {
+  display: grid;
+  grid-template-columns: 2.5rem 2.5rem;
+  gap: .5rem;
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    border-radius: 4px;
+    background: none;
+    color: $color-accent-1;
+    &:hover {
+      background: $color-footer-mobile-2;
+    }
+  }
+}
 .article-tag {
   .tag-link {
     &:before {
