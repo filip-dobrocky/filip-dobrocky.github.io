@@ -62,7 +62,7 @@
     <div class="works-grid">
       {{ range $p := (.Paginate $mainPosts).Pages }}
       <a class="work-item" href="{{ .Permalink }}"
-      {{ with .Resources.GetMatch "*.[jp][pn]g" }} style="background-image: url('{{ .RelPermalink }}');{{ with $p.Params.thumbpos }} background-position: {{ . }};{{ end }}" {{ end }}>
+      {{ with .Resources.GetMatch "*.[jp][pn]g" }}{{ with .Resize "800x webp q75" }} style="background-image: url('{{ .RelPermalink }}');{{ with $p.Params.thumbpos }} background-position: {{ . }};{{ end }}" {{ end }}{{ end }}>
           <div class="work-meta"><time datetime="{{ time .Date }}" itemprop="datePublished">{{ .Date.Format $dataFormat }}</time></div>
           <div class="work-title">{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</div>
           <div class="work-desc"><em>{{ .Description }}</em></div>
@@ -80,7 +80,7 @@
       {{ end }}
       {{ range $p := (first (.Scratch.Get "count") $mainPosts) }}
         <a class="work-item" href="{{ .Permalink }}"
-        {{ with .Resources.GetMatch "*.[jp][pn]g" }} style="background-image: url('{{ .RelPermalink }}');{{ with $p.Params.thumbpos }} background-position: {{ . }};{{ end }}" {{ end }}>
+        {{ with .Resources.GetMatch "*.[jp][pn]g" }}{{ with .Resize "800x webp q75" }} style="background-image: url('{{ .RelPermalink }}');{{ with $p.Params.thumbpos }} background-position: {{ . }};{{ end }}" {{ end }}{{ end }}>
             <div class="work-meta"><time datetime="{{ time .Date }}" itemprop="datePublished">{{ .Date.Format $dataFormat }}</time></div>
             <div class="work-title">{{ if .Title }} {{- .Title -}} {{ else }} {{- print "Untitled" -}}{{ end }}</div>
             <div class="work-desc"><em>{{ .Description }}</em></div>
