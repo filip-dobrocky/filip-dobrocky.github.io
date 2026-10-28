@@ -1,5 +1,5 @@
 (function () {
-  var CELL = 14, SCALE = 0.003, LEVELS = 8, SPEED = 0.0008, FRICTION = 0.94, ALPHA = 0.1,
+  var CELL = 14, SCALE = 0.003, LEVELS = 8, SPEED = 0.0008, FRICTION = 0.94, ALPHA = 0.12,
       FEEDBACK = 0.85, ZOOM = 0.25, TAIL = 40;
 
   // Ken Perlin's improved noise (3D), z driven by scroll
@@ -38,7 +38,8 @@
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     cols = Math.ceil(w / CELL) + 1; rows = Math.ceil(h / CELL) + 1;
     field = new Float32Array(cols * rows);
-    color = getComputedStyle(document.body).color;
+    var cs = getComputedStyle(document.body);
+    color = cs.getPropertyValue('--bg-line').trim() || cs.color;
     draw();
   }
 

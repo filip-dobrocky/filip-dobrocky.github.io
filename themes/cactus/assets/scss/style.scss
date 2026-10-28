@@ -25,6 +25,7 @@ body {
   height: 100%;
   background-color: $color-background;
   color: $color-text;
+  --bg-line: #{$color-accent-1};
   font-display: swap;
   font-weight: 400;
   font-size: $font-size;
