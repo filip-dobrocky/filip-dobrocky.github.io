@@ -10,7 +10,7 @@ The work titled *Ecosystem* is a networked sound installation inspired by nature
 While the cyber-animals express themselves through sound (or light), the essence of the conversation lies beyond what is humanly conceivable — messages are transmitted over a wireless mesh network. The accuracy of the transmission affects the behaviour of the communicating agents, therefore the physicality of the network (comprising dropped or delayed messages) shapes the overall soundscape. Each recipient of the message mutates the received pattern according to their "*DNA*", resulting in a decentralized genetic algorithm. The installation is designed to be *modular*, *scalable*, and *expandable* — new species can be integrated into the infrastructure at any time.
 
 <figure style="margin: 0 auto; width: 75%; text-align: center;">
-  <img src="/images/content/ecosystem/ecosystem.png" alt="A visualisation of a wireless mesh ecosystem" style="width: 100%;">
+  <img src="/images/content/ecosystem/ecosystem_dark.png" alt="A visualisation of a wireless mesh ecosystem" style="width: 100%;">
   <figcaption style="margin-top: 2em;">A visualisation of a wireless mesh ecosystem</figcaption>
 </figure>
 
