@@ -38,6 +38,7 @@ The installation (or parts of it) has since been exhibited in varying forms at s
 <li>Světlo Valmez, Valašské Meziříčí, CZ, 9/2025  
 <li>Esc Medien Kunst Labor, Graz, AT 9-11/2025  
 <li>Dim Zvuku (House of Sound), Lviv, Ukraine, 12/2025  
+<li>Biela noc, Bratislava, SK, 10/2026  
 </ul>
 </small>
 
