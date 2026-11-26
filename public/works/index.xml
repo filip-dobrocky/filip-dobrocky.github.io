@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Filip Dobrocky</copyright>
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mycelium</title>
+      <link>http://localhost:1313/works/mycelium/</link>
+      <pubDate>Sat, 07 Nov 2026 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/works/mycelium/</guid>
+      <description>(generative 3D prints, electronics, Wi-Fi mesh)&#xA;SONDA 2026&#xA;The Mycelium is a single organism spread across scattered, co-dependent fungal bodies. Connected over a network imperceptible to us, they breathe as one. The Mycelium feeds on your data, sniffing the Wi-Fi signals your phone gives away without asking and digesting them into sound and light.&#xA;The work was created as part of the TRYCHTÝŘ V project, organized by SVITAVA – transmedia art lab in 2026.</description>
+    </item>
     <item>
       <title>hear:here</title>
       <link>http://localhost:1313/works/hear-here/</link>
