@@ -3,6 +3,7 @@ title: "Mycelium"
 description: "generative 3D prints, electronics, Wi-Fi mesh"
 date: 2026-11-07T18:00:00+01:00
 draft: false
+thumbpos: top
 ---
 
 *(generative 3D prints, electronics, Wi-Fi mesh)*  
